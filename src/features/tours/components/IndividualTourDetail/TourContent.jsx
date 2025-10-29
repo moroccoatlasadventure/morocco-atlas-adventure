@@ -76,7 +76,7 @@ const TourContent = ({ tour }) => {
                 </h3>
                 <p className={styles.dayDescription}>{day.description}</p>
                 <div className={styles.dayImage}>
-                  <img src={process.env.PUBLIC_URL + '/' + day.image} alt={`Day ${day.day}`} />
+                  <img src={day.image} alt={`Day ${day.day}`} />
                 </div>
               </div>
             ))}
