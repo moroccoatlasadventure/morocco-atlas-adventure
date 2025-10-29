@@ -1,0 +1,46 @@
+.heroContainer {
+  background: white;
+  padding: 40px 20px; /* reduced vertical padding */
+  text-align: center;
+  border-radius: 8px;
+  color: black; /* black text for a clean look */
+}
+
+.title {
+  font-size: 1.8rem; /* slightly smaller */
+  font-weight: 700;
+  margin-bottom: 12px; /* reduced spacing */
+}
+
+.subtitle {
+  font-size: 0.95rem; /* slightly smaller */
+  margin-bottom: 20px; /* reduced spacing */
+  line-height: 1.4;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: center;
+}
+
+.primaryButton {
+  background-color: #d57e2f;
+  color: white;
+  border: none;
+  padding: 10px 20px; /* smaller button */
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: transform 0.2s;
+}
+
+.primaryButton:hover {
+  transform: scale(1.05);
+}
+
+.icon {
+  display: inline-flex;
+}

@@ -1,0 +1,219 @@
+/* JourneySection.module.css */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+  padding: 50px 10%;
+  background-color: #fff;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+  flex-wrap: wrap;
+}
+
+.textContainer {
+  flex: 1;
+  min-width: 300px;
+}
+
+.title {
+  font-size: 2rem; /* 🔸 taille lisible mais pas trop grande */
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+.text {
+  font-size: 1rem; /* 🔸 texte confortable */
+  line-height: 1.7;
+  margin-bottom: 1rem;
+  color: #444;
+  max-width: 600px;
+}
+
+.imageContainer {
+  position: relative;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 85%; /* 🔸 légèrement plus petit qu’avant */
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* 🔸 effet au survol : léger zoom et ombre douce */
+.image:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+}
+
+/* 🔸 Box d’altitude sur l’image */
+.elevationBox {
+  position: absolute;
+  bottom: 15px;
+  right: 25px;
+  background-color: rgba(249, 115, 22, 0.9);
+  color: white;
+  border-radius: 8px;
+  padding: 10px 15px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.elevationBox {
+  position: absolute;
+  bottom: 15px;
+  right: 25px;
+  background-color: rgba(255, 255, 255, 0.9); /* 🔸 couleur originale conservée */
+  border-radius: 8px;
+  padding: 10px 15px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.elevationValue {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: rgba(249, 115, 22, 0.9);
+}
+
+.elevationLabel {
+  font-size: 0.9rem;
+  opacity: 0.9;
+  color: #333; /* 🔸 texte sombre pour contraste */
+}
+
+/* 🔸 Responsive */
+@media (max-width: 900px) {
+  .container {
+    flex-direction: column;
+    text-align: center;
+    padding: 40px 5%;
+    gap: 2rem;
+  }
+
+  .image {
+    width: 90%;
+  }
+
+  .text {
+    max-width: 100%;
+  }
+
+  .elevationBox {
+    bottom: 10px;
+    right: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 30px 4%;
+    gap: 1.5rem;
+  }
+
+  .title {
+    font-size: 1.7rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .text {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 0.8rem;
+  }
+
+  .image {
+    width: 95%;
+  }
+
+  .elevationBox {
+    bottom: 8px;
+    right: 8px;
+    padding: 8px 12px;
+  }
+
+  .elevationValue {
+    font-size: 1.1rem;
+  }
+
+  .elevationLabel {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 25px 3%;
+    gap: 1rem;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .text {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .image {
+    width: 100%;
+  }
+
+  .imageContainer {
+    position: relative;
+  }
+
+  .elevationBox {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding: 6px 10px;
+    min-width: 100px;
+    max-width: 120px;
+    text-align: center;
+  }
+
+  .elevationValue {
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  .elevationLabel {
+    font-size: 0.65rem;
+    line-height: 1.1;
+    word-wrap: break-word;
+  }
+}
+
+/* Extra small screens - ensure elevation text fits properly */
+@media (max-width: 360px) {
+  .elevationBox {
+    padding: 4px 8px;
+    min-width: 90px;
+    max-width: 100px;
+    bottom: 8px;
+    right: 8px;
+  }
+
+  .elevationValue {
+    font-size: 0.8rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  .elevationLabel {
+    font-size: 0.6rem;
+    line-height: 1;
+    word-wrap: break-word;
+  }
+}

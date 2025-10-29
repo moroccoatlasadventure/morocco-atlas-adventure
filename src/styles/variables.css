@@ -1,0 +1,46 @@
+:root {
+  /* Primary Colors - Orange/Brown Theme */
+  --color-primary: #612b1c;
+  --color-primary-dark: #4a2016;
+  --color-secondary: #d97706;
+  --color-accent: #f59e0b;
+
+  /* Neutral Colors */
+  --color-cream: #fef3e2;
+  --color-beige-light: #f5e6d3;
+  --color-brown-dark: #612b1c;
+  --color-brown-footer: #4a2016;
+
+  /* Text Colors */
+  --color-text-primary: #3e2723;
+  --color-text-secondary: #5d4037;
+  --color-text-light: #ffffff;
+
+  /* Background Colors */
+  --color-bg-cream: #fef3e2;
+  --color-bg-white: #ffffff;
+  --color-bg-footer: #4a2016;
+
+  /* Icon Colors */
+  --color-icon-blue: #3b82f6;
+  --color-icon-orange: #c65d21;
+  --color-icon-green: #10b981;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 3rem;
+  --spacing-xl: 4rem;
+
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+
+  /* Breakpoints */
+  --breakpoint-mobile: 480px;
+  --breakpoint-tablet: 768px;
+  --breakpoint-desktop: 1024px;
+  --breakpoint-wide: 1280px;
+}

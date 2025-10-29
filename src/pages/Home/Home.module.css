@@ -1,0 +1,37 @@
+.homePage {
+  padding: 0;
+  background: #fcf5e6;
+}
+
+.section {
+  background: #fcf5e6;
+  padding: 5rem 2rem 5rem 2rem;
+  max-width: 1600px;
+  margin: 0 auto 3.5rem auto;
+  border-radius: 24px;
+  box-shadow: 0 2px 44px rgba(76,39,17,0.08), 0 1.5px 6px rgba(150,86,30,0.08);
+  transition: box-shadow 0.18s;
+}
+.section:hover {
+  box-shadow: 0 12px 44px rgba(76,39,17,0.13), 0 4px 16px rgba(150,86,30,0.10);
+}
+
+@media (max-width: 900px) {
+  .section {
+    border-radius: 13px;
+    padding: 2.6rem 0.5rem;
+  }
+  .homePage {
+    background: #fcf5e6;
+  }
+}
+
+@media (max-width: 700px) {
+  .section {
+    border-radius: 0;
+    padding: 2.5rem 0.4rem;
+    margin-bottom: 1.3rem;
+    box-shadow: 0 1px 16px rgba(76,39,17,0.06);
+  }
+}
+

@@ -1,0 +1,301 @@
+.trekkingSection {
+  padding: 7rem 0;
+  background: linear-gradient(180deg, #fef3e2 0%, white 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 5rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.625rem;
+  padding: 0.625rem 1.5rem;
+  background: white;
+  border-radius: 100px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #3e2723;
+  margin-bottom: 1.75rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+.badge i {
+  color: #d57915;
+  font-size: 1.125rem;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #3e2723;
+  margin: 0 0 1.5rem;
+}
+
+/* Trek Cards */
+.treksContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.trekCard {
+  display: grid;
+  grid-template-columns: 40% 1fr;
+  gap: 0;
+  background: white;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(213,121,21,0.08);
+  min-height: 420px;
+  width: 100%;
+}
+
+.trekCard:hover {
+  transform: scale(1.03);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+}
+
+.trekCard.imageRight {
+  grid-template-columns: 1fr 40%;
+}
+
+.trekCard.imageRight .imageSection {
+  order: 2;
+}
+
+.trekCard.imageRight .contentSection {
+  order: 1;
+}
+
+.imageSection {
+  position: relative;
+  overflow: hidden;
+  min-height: 420px;
+}
+
+.trekImage {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.imageOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 50%, rgba(0,0,0,0.2) 100%);
+}
+
+/* Badge */
+.trekBadge {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 100px;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  z-index: 2;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+
+.trekBadge.popular {
+  background: linear-gradient(135deg, #d57915 0%, #b86612 100%);
+  color: white;
+}
+
+.trekBadge.cultural {
+  background: rgba(255,255,255,0.95);
+  color: #d57915;
+  border: 2px solid #d57915;
+}
+
+.trekBadge.advanced {
+  background: linear-gradient(135deg, #3e2723 0%, #5d4037 100%);
+  color: white;
+}
+
+/* Content Section */
+.contentSection {
+  padding: 1.5rem 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.trekTitle {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #3e2723;
+  margin-bottom: 0.5rem; /* espace équilibré vers Programs */
+}
+
+/* Programs Title - attractif */
+.programsTitle {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #d57915;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-left: 4px solid #d57915;
+  padding-left: 0.5rem;
+  background: rgba(213,121,21,0.05);
+  border-radius: 6px;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.programsTitle:hover {
+  background: rgba(213,121,21,0.1);
+  transform: translateY(-2px);
+}
+
+/* Programs Section */
+.programsSection {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.programCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  background: #fef3e2;
+  border-radius: 12px;
+  color: #3e2723;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.programCard i:first-child {
+  margin-right: 0.5rem;
+  font-size: 1rem;
+}
+
+.programCard span {
+  flex: 1;
+}
+
+.programCard i:last-child {
+  margin-left: 0.5rem;
+}
+
+.programCard:hover {
+  background: linear-gradient(135deg, #d57915 0%, #b86612 100%);
+  color: white;
+  transform: scale(1.02);
+}
+
+.programCard:hover i:last-child {
+  transform: translateX(4px);
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .trekCard,
+  .trekCard.imageRight {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+
+  .trekCard.imageRight .imageSection,
+  .trekCard.imageRight .contentSection {
+    order: initial;
+  }
+
+  .imageSection {
+    min-height: 350px;
+  }
+
+  .contentSection {
+    padding: 1.5rem 2rem;
+  }
+
+  .trekTitle {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .trekkingSection {
+    padding: 5rem 0;
+  }
+
+  .container {
+    padding: 0 1.5rem;
+  }
+
+  .header {
+    margin-bottom: 3.5rem;
+  }
+
+  .title {
+    font-size: 2.25rem;
+  }
+
+  .imageSection {
+    min-height: 280px;
+  }
+
+  .contentSection {
+    padding: 1.25rem 2rem;
+  }
+
+  .trekTitle {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .trekkingSection {
+    padding: 4rem 0;
+  }
+
+  .container {
+    padding: 0 1rem;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .imageSection {
+    min-height: 240px;
+  }
+
+  .contentSection {
+    padding: 1rem 1.5rem;
+  }
+
+  .trekTitle {
+    font-size: 1.5rem;
+  }
+
+  .programCard {
+    padding: 0.5rem 0.75rem;
+  }
+}

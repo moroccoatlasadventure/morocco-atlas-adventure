@@ -1,0 +1,1983 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "places": "Our Tours",
+    "trips": "Trekking Trips",
+    "activities": "Activities",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover the Magic of Morocco",
+    "subtitle": "Journey through the Atlas Mountains and Sahara Desert. Experience authentic Moroccan culture, breathtaking landscapes, and unforgettable adventures.",
+    "cta": "Start Your Adventure",
+    "viewTours": "View Tours"
+  },
+  "tours": {
+    "sectionTitle": "Adventure Tours",
+    "sectionSubtitle": "Choose from our carefully crafted experiences designed to showcase Morocco's best",
+    "camelRides": {
+      "title": "Camel Rides",
+      "description": "Experience the traditional way of desert travel with guided camel expeditions across golden dunes."
+    },
+    "expeditions": {
+      "title": "4x4 Expeditions",
+      "description": "Thrilling off-road adventures through rugged terrains and hidden desert valleys."
+    },
+    "mountainTrekking": {
+      "title": "Mountain Trekking",
+      "description": "Guided hiking tours through the spectacular Atlas Mountain ranges and valleys."
+    },
+    "culturalTours": {
+      "title": "Cultural Tours",
+      "description": "Immerse yourself in Moroccan traditions, crafts, cuisine, and local customs."
+    },
+    "from": "From",
+    "viewDetails": "View Details",
+    "perday": "per day",
+    "viewAll": "View All"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Discover Morocco with Expert Guides",
+    "subtitle": "Your gateway to Morocco's vibrant landscapes, timeless culture, and legendary hospitality",
+
+    "story": {
+      "title": "Your Moroccan Adventure Awaits",
+      "paragraph1": "Morocco Atlas Adventure is your gateway to the heart of Morocco's vibrant landscapes, timeless culture, and legendary hospitality. Specializing in guided tours across Tangier, Fes, Marrakech, and Casablanca, we craft immersive travel experiences that reveal the authentic spirit of Morocco.",
+      "paragraph2": "Our curated itineraries offer flexibility to suit every explorer, with options including 2-day, 3-day, 7-day, and 10-day tours. Discover bustling medinas, imperial architecture, and the lively pulse of Moroccan cities.",
+      "paragraph3": "For adventure seekers, we offer unforgettable trekking experiences in the breathtaking Atlas Mountains, including legendary peaks like Toubkal—the highest in North Africa."
+    },
+
+    "highlights": {
+      "destinations": "Major Cities",
+      "tourPlans": "Tour Plans",
+      "treks": "Mountain Treks"
+    },
+
+    "features": {
+      "cityTours": {
+        "title": "Guided City Tours",
+        "description": "Explore Morocco's imperial cities with local experts",
+        "item1": "Tangier - Gateway to Africa",
+        "item2": "Fes - Ancient Medina",
+        "item3": "Marrakech - Red City",
+        "item4": "Casablanca - Modern Morocco"
+      },
+      "trekking": {
+        "title": "Atlas Mountain Trekking",
+        "description": "Conquer peaks and explore Berber villages",
+        "difficulty": "Difficulty",
+        "difficulty.easy": "Easy",
+        "difficulty.medium": "Medium",
+        "difficulty.hard": "Hard",
+        "item1": "Mount Toubkal Summit (4,167m)",
+        "item2": "Multi-day trekking routes",
+        "item3": "Experienced mountain guides"
+      }
+    },
+
+    "stats": {
+      "dayOptions": "Day Options",
+      "localGuides": "Local Guides",
+      "rating": "Average Rating",
+      "support": "Support"
+    },
+
+    "learnMore": "Learn More About Us"
+  },
+  "trekking": {
+    "badge": "Trekking Adventures",
+    "title": "Conquer the Atlas Mountains",
+    "subtitle": "Experience breathtaking peaks, remote valleys, and authentic Berber culture on guided trekking expeditions",
+
+    "duration": "Duration",
+    "days": "Days",
+    "difficulty": "Difficulty",
+    "elevation": "Max Elevation",
+    "highlightsTitle": "Highlights",
+    "viewDetails": "View Details",
+    "viewAll": "Begin Your Adventure",
+
+    "toubkalSummit": {
+      "title": "Mount Toubkal Summit Trek",
+      "description": "Conquer North Africa's highest peak at 4,167m. A challenging yet rewarding 3-day journey through stunning mountain landscapes.",
+      "duration": "3 Days",
+      "difficulty": "Medium-Hard",
+      "highlights": [
+        "Summit Africa's highest peak",
+        "Stay at Toubkal Refuge (3,207m)",
+        "Visit traditional Berber villages",
+        "Panoramic Atlas views"
+      ]
+    },
+
+    "berberVillages": {
+      "title": "Berber Villages Cultural Trek",
+      "description": "Immerse yourself in authentic Berber culture through remote mountain villages, terraced valleys, and traditional homestays.",
+      "duration": "4-5 Days",
+      "difficulty": "Easy-Medium",
+      "highlights": [
+        "Multiple Berber village visits",
+        "Traditional homestays",
+        "Walnut groves & terraced valleys",
+        "Cultural encounters & local cuisine"
+      ]
+    },
+
+    "grandTraverse": {
+      "title": "Toubkal Grand Traverse",
+      "description": "The ultimate Atlas expedition for serious trekkers. 7 days traversing high passes, remote valleys, and multiple peaks.",
+      "duration": "7 Days",
+      "difficulty": "Hard",
+      "highlights": [
+        "Complete High Atlas circuit",
+        "5+ passes above 3,000m",
+        "Remote valleys & untouched terrain",
+        "Optional Toubkal summit"
+      ]
+    }
+  },
+  "trekkingTrips": {
+    "badge": "Trekking Adventures",
+    "title": "Our Trekking Trips",
+    "programsTitle": "Programs",
+    "bookButton": "Book this adventure",
+    "itineraryTitle": "Trek Itinerary",
+    "mealsLabel": "Meals",
+    "equipmentTitle": "Equipments",
+    "badges": {
+      "mostPopular": "Most Popular",
+      "cultural": "Cultural",
+      "advanced": "Advanced"
+    },
+    "cards": {
+      "atlas": { "title": "Atlas Mountains Trek" },
+      "rif": { "title": "Rif Mountains Trek" },
+      "sahara": { "title": "Sahara Trek" }
+    },
+    "programTitles": {
+      "oukaimden-imlil": "2 Days Trek in Oukaimden to Imlil Valley",
+      "berber-villages": "3 Days Trek in Berber Villages",
+      "toubkal": "7 Days Toubkal Trekking",
+      "chefchaouen-akchour": "2 Days Trek from Chefchaouen to Akchour",
+      "from-chefchaouen": "3 Days Trek from Chefchaouen",
+      "merzouga-two-days": "2 Days Sahara Trek",
+      "merzouga-three-days": "3 Days Sahara Trek",
+      "merzouga-seven-days": "7 Days Sahara Trek"
+    }
+  },
+  "trekkingPrograms": {
+    "common": {
+      "labels": {
+        "Duration": "Duration",
+        "difficulty": "Difficulty",
+        "Difficulty": "Difficulty",
+        "location": "Location",
+        "Location": "Location",
+        "bestSeason": "Best Season",
+        "Best Season": "Best Season"
+      }
+    },
+    "oukaimden-imlil": {
+      "hero": {
+        "title": "2 Days Trek in Oukaimden To Imlil Valley",
+        "subtitle": "A breathtaking journey through valleys, villages, and mountain trails",
+        "stats": [
+          { "value": "2 Days" },
+          { "value": "Moderate" },
+          { "value": "Atlas Mountains" },
+          { "value": "Apr-Oct" }
+        ]
+      },
+      "journey": {
+        "title": "An Unforgettable Trek from Oukaimden to Imlil Valley",
+        "description1": "Embark on a two-day trek from Oukaimden to Imlil Valley and discover the heart of Morocco’s High Atlas Mountains. Walk through breathtaking landscapes, traditional Berber villages, and scenic mountain passes, while experiencing authentic Moroccan mountain life far from the city bustle.",
+        "description2": "This gentle adventure combines nature, culture, and discovery. From the snowy peaks of Oukaimden to the lush valleys of Imlil, enjoy panoramic views, local hospitality, and delicious homemade meals — a true Berber experience in just two unforgettable days.",
+        "elevation": "2,600m",
+        "elevationLabel": "Altitude Range"
+      },
+      "timeline": [
+        {
+          "title": "Day 1 — Marrakech → Oukaimeden → Tacheddirt (2300m)",
+          "description": "Meet your mountain guide, drive to Oukaimeden and start hiking up to Tizi N'Addi. Meet Berber families on the way, enjoy incredible views before descending to Tacheddirt village. Overnight in local guesthouse.",
+          "walkingTime": "05h walking",
+          "meals": "L, D"
+        },
+        {
+          "title": "Day 2 — Tacheddirt → Tizi N'Tamatert (2280m) → Imlil (1740m)",
+          "description": "Breakfast then descent through Berber villages. Enjoy mint tea with locals before climbing to Tizi N'Tamatert pass. Lunch with views over Toubkal mountains. End the trek in Imlil and return to Marrakech.",
+          "walkingTime": "05h30 walking approx.",
+          "meals": "B, L, D"
+        }
+      ],
+      "info": {
+        "notIncludedTitle": "Not Included",
+        "notIncludedItems": [
+          "Travel insurance",
+          "Soft drinks",
+          "Tips",
+          "Personal Expenses"
+        ],
+        "includedTitle": "Included",
+        "includedItems": [
+          "Transfers between Marrakech and the trek’s start and end points",
+          "1 Night in homestay during the hike.",
+          "All meals during the hike.",
+          "The services of muleteers, and their mules.",
+          "The services of a cook",
+          "My services as a certified mountain guide"
+        ]
+      }
+    },
+    "berber-villages": {
+      "hero": {
+        "title": "3 Days Trek in Berber Villages",
+        "subtitle": "Discover the culture and landscapes of the Atlas Mountains",
+        "stats": [
+          { "value": "3 Days" },
+          { "value": "Moderate" },
+          { "value": "High Atlas Mountains" },
+          { "value": "Apr–Oct" }
+        ]
+      },
+      "journey": {
+        "title": "Explore the Heart of Berber Culture in the Atlas Mountains",
+        "description1": "Discover the magnificent Atlas Mountains, enjoy the beauty of the valleys, and explore authentic Berber villages. Walk through natural landscapes while experiencing the lifestyle and traditions of the local communities.",
+        "description2": "This trek offers unforgettable human encounters, traditional food, peaceful mountain trails, and breathtaking views — a truly immersive cultural experience in just 3 days.",
+        "elevation": "2,930m",
+        "elevationLabel": "Maximum Altitude"
+      },
+      "timeline": [
+        {
+          "title": "Day 1 — Marrakech → Tizi Ouddid (2000m) → Tizi Oussem (1800m) → Azib Tamsoult Refuge (2250m)",
+          "description": "Pick up from Marrakech and drive to Aguersoual. Meet the local team and start hiking to Tizi Ouddid pass with superb views over Azzaden and Imlil valleys. Continue through Id Aissa village before reaching Tizi Oussem. Overnight in a peaceful guest house.",
+          "walkingTime": "5h walking",
+          "meals": "L, D"
+        },
+        {
+          "title": "Day 2 — Azib Tamsoult (2250m) → Tizi n’Tzikert Pass (2930m) → Aremd Village (1900m)",
+          "description": "Walk uphill through forest toward Tizi n’Tzikert Pass with views over the colorful mountains and Mount Toubkal. Descend toward Aremd Village. Overnight in a lodge with traditional hospitality.",
+          "walkingTime": "6h walking approx.",
+          "meals": "B, L, D"
+        },
+        {
+          "title": "Day 3 — Aremd Village (1900m) → Imlil (1740m) → Marrakech",
+          "description": "Breakfast then walk down to Imlil where your driver meets you for the transfer back to Marrakech. A wonderful experience full of memories from the High Atlas!",
+          "walkingTime": "1h30 walking approx.",
+          "meals": "B, L"
+        }
+      ],
+      "info": {
+        "notIncludedTitle": "Not Included",
+        "notIncludedItems": [
+          "Travel insurance",
+          "Soft drinks",
+          "Tips",
+          "Personal expenses"
+        ],
+        "includedTitle": "Included",
+        "includedItems": [
+          "Transfers Marrakech ↔ Trek start/end point",
+          "2 Nights in homestay during the hike",
+          "All meals during the trek",
+          "Services of muleteers and their mules",
+          "The services of a cook",
+          "Certified mountain guide"
+        ]
+      }
+    },
+    "toubkal": {
+      "hero": {
+        "title": "7 Days Trek in Toubkal",
+        "subtitle": "Explore the Atlas Mountains and Berber Villages",
+        "stats": [
+          { "value": "7 Days" },
+          { "value": "Challenging" },
+          { "value": "High Atlas Mountains" },
+          { "value": "Mar–Nov" }
+        ]
+      },
+      "journey": {
+        "title": "Discover the High Atlas and Berber Traditions",
+        "description1": "Embark on a 7-day trek through the High Atlas Mountains, exploring beautiful valleys, Berber villages, and traditional culture. Each day offers a mix of challenging hikes and opportunities to immerse in local life.",
+        "description2": "Experience stunning panoramas, mountain trails, and unforgettable moments from the summit of Jebel Toubkal to peaceful riversides. Relax in village cafés and enjoy mint tea after your daily adventures.",
+        "elevation": "4167m",
+        "elevationLabel": "Maximum Altitude"
+      },
+      "timeline": [
+        {
+          "title": "Day 1 — Marrakech → Tassa Ouirgane → Tiziane (1800m)",
+          "description": "Drive to Tassa Ouirgane and start trekking toward Tiziane. Walk through juniper and cedar forests and along the red-soil valley of Azzadene. Enjoy scenic mountain views and small remote villages.",
+          "walkingTime": "3-4h walking",
+          "meals": "L, D"
+        },
+        {
+          "title": "Day 2 — Tiziane → Tizi 'n Touati → Tizgui (2300m)",
+          "description": "Climb out of Azzadene valley to Tizi 'n Touati pass for magnificent views of the High Atlas. Descend through oak forests and villages. Overnight camp near Tizgui at Azib Assoul.",
+          "walkingTime": "5-6h walking",
+          "meals": "B, L, D"
+        },
+        {
+          "title": "Day 3 — Tizgui → Tizi Oussem (1900m)",
+          "description": "Cross Tizi 'n Tagoudalte pass (2700m) and descend through alpine meadows and riverside terraces to the village of Tizi Oussem. Afternoon free to relax or explore the village. Overnight in a gîte.",
+          "walkingTime": "5-6h walking",
+          "meals": "B, L, D"
+        },
+        {
+          "title": "Day 4 — Tizi Oussem → Aremd (1900m)",
+          "description": "Hike to Azib Tamsoulte waterfall, return via Tizi 'n Mzik pass (2500m), and reach the main Toubkal valley at Aremd. Overnight in a village gîte.",
+          "walkingTime": "5h walking approx.",
+          "meals": "B, L, D"
+        },
+        {
+          "title": "Day 5 — Aremd → Refuge du Toubkal (3200m)",
+          "description": "Gradually climb through Toubkal valley via Sidi Chamarouch pilgrimage site to the Toubkal refuge. Camp at the foot of Mount Toubkal.",
+          "walkingTime": "5-6h walking",
+          "meals": "B, L, D"
+        },
+        {
+          "title": "Day 6 — Summit of Toubkal (4167m) → Refuge → Imili",
+          "description": "Early morning ascent to the summit (2-3h) for breathtaking views. Descend back to the base camp and follow the Mizane river trail to Imili. Overnight in village or lodge.",
+          "walkingTime": "8-9h walking",
+          "meals": "B, L, D"
+        },
+        {
+          "title": "Day 7 — Return to Marrakech",
+          "description": "Breakfast then transfer from Imili back to Marrakech. End of trek with memories from the High Atlas.",
+          "walkingTime": "1-2h walking",
+          "meals": "B, L"
+        }
+      ],
+      "info": {
+        "notIncludedTitle": "Not Included",
+        "notIncludedItems": [
+          "Travel insurance",
+          "Soft drinks and other unspecified beverages",
+          "Tips",
+          "Personal expenses"
+        ],
+        "includedTitle": "Included",
+        "includedItems": [
+          "English-speaking guide and cook",
+          "Muleteers and mules for luggage",
+          "Full board during the trek including water, coffee, and tea",
+          "Mountain refuges accommodation",
+          "Transport hotel ↔ trek start/end",
+          "Mess, kitchen, and sanitary tents if camping"
+        ]
+      }
+    },
+    "chefchaouen-akchour": {
+      "hero": {
+        "title": "2 Days Trekking from Chefchaouen to Akchour",
+        "subtitle": "Explore the Rif Mountains and Scenic Villages",
+        "stats": [
+          { "value": "2 Days" },
+          { "value": "Moderate" },
+          { "value": "Rif Mountains, Morocco" },
+          { "value": "Mar–Nov" }
+        ]
+      },
+      "journey": {
+        "title": "Discover the Rif Mountains and Local Culture",
+        "description1": "Embark on a 2-day trek through the scenic Rif Mountains, hiking from Chefchaouen to Akchour. Enjoy forests, rivers, rock formations, and traditional villages along the way.",
+        "description2": "Stay overnight at a local guesthouse, immerse yourself in Moroccan culture, and witness stunning natural landscapes from riversides to panoramic mountain viewpoints.",
+        "elevation": "1260m",
+        "elevationLabel": "Maximum Altitude"
+      },
+      "timeline": [
+        {
+          "title": "Day 1 — Chefchaouen → Tissouka → Afeska",
+          "description": "Pick up from your hotel in Chefchaouen and start walking through the Medina, Place Outa el Hammam, Cemetery, Kasbah Museum, and Grand Mosque. Reach Ras El Ma (Km 0), continue via Bouzafer Mosque and Talassemtane National Park. Arrive in Azilane and overnight at Afeska rural house.",
+          "walkingTime": "6-7h walking",
+          "meals": "B, L, D"
+        },
+        {
+          "title": "Day 2 — Afeska → God's Bridge → Akchour",
+          "description": "Visit the Cascades of Akchour and explore God's Bridge Canyon with scenic stops. Continue to Akchour village for lunch or mint tea by the river. Return to Chefchaouen via Route d’Alchour.",
+          "walkingTime": "5-6h walking",
+          "meals": "B, L"
+        }
+      ],
+      "info": {
+        "notIncludedTitle": "Not Included",
+        "notIncludedItems": [
+          "Travel insurance",
+          "Soft drinks and other unspecified beverages",
+          "Tips",
+          "Personal expenses"
+        ],
+        "includedTitle": "Included",
+        "includedItems": [
+          "English-speaking mountain guide",
+          "Breakfast, picnic lunch, and dinner",
+          "Overnight accommodation at Afeska rural house",
+          "All transfers and pick-up from Chefchaouen hotel",
+          "Immersive local cultural experience"
+        ]
+      }
+    },
+    "merzouga-two-days": {
+      "hero": {
+        "title": "2 Days Trekking in Merzouga Desert",
+        "subtitle": "Walk through the dunes of Erg-Chebbi and meet Berber families",
+        "stats": [
+          { "value": "2 Days" },
+          { "value": "Sand dunes & rocky desert" },
+          { "value": "Merzouga, Morocco" },
+          { "value": "Oct–Apr" }
+        ]
+      },
+      "journey": {
+        "title": "Explore Erg-Chebbi and the Nomadic Life",
+        "description1": "A 2-day desert trek from Merzouga to experience the beauty of the Sahara. Walk through golden dunes, enjoy the tranquility, and connect with Berber families.",
+        "description2": "Spend a peaceful night under the stars at a traditional desert camp, savor Moroccan cuisine, and enjoy local music.",
+        "elevation": "850m",
+        "elevationLabel": "Average Altitude"
+      },
+      "trekDetails": [
+        { "label": "Camping", "value": "Equipment provided" },
+        { "label": "Meals", "value": "Breakfast, Lunch, Dinner" },
+        { "label": "Luggage", "value": "Carried by camels" },
+        { "label": "Water", "value": "Included during trek" },
+        { "label": "Guide", "value": "Local expert guide" },
+        { "label": "Camel Driver", "value": "Berber desert team" }
+      ],
+      "timeline": [
+        {
+          "title": "Day 1 — Merzouga → Erg-Chebbi Dunes → Desert Camp",
+          "description": "Begin the trek from Merzouga, walking across the soft dunes of Erg-Chebbi. Visit local Berber families, enjoy sunset views, and spend the night in a nomadic-style camp under the stars.",
+          "walkingTime": "4–5h walking",
+          "meals": "L, D"
+        },
+        {
+          "title": "Day 2 — Desert Camp → Black Desert → Return to Merzouga",
+          "description": "Watch the sunrise over the dunes, then hike through the Black Desert with volcanic stone fields. After lunch, return to Merzouga by camel or on foot.",
+          "walkingTime": "4h walking",
+          "meals": "B, L"
+        }
+      ],
+      "info": {
+        "includedTitle": "Included",
+        "includedItems": [
+          "Camping requirements (tent, mattress, blankets)",
+          "Meals: Breakfast, Lunch, Dinner",
+          "Camels to carry luggage",
+          "Water during the trek",
+          "Camel driver and desert crew",
+          "Expert local tour guide"
+        ],
+        "notIncludedTitle": "Not Included",
+        "notIncludedItems": [
+          "Transportation to/from Merzouga",
+          "Travel insurance",
+          "Personal expenses",
+          "Tips and optional activities"
+        ]
+      }
+    }
+  },
+  "merzouga-three-days": {
+    "hero": {
+      "title": "3 Days Trekking in the Merzouga Desert",
+      "subtitle": "Discover Erg-Chebbi, Black Desert, and Berber Villages",
+      "stats": [
+        { "value": "3 Days" },
+        { "value": "Dunes & rocky desert" },
+        { "value": "Merzouga, Morocco" },
+        { "value": "Oct–Apr" }
+      ]
+    },
+    "journey": {
+      "title": "Hike through Erg-Chebbi and the Black Desert",
+      "description1": "A 3-day Sahara trekking adventure to dive deeper into the desert. Walk across dunes, visit Berber villages, and explore volcanic plains.",
+      "description2": "Sleep under the stars, enjoy authentic meals, and connect with nomadic families along the way.",
+      "elevation": "850m",
+      "elevationLabel": "Average Altitude"
+    },
+    "trekDetails": [
+      { "label": "Camping", "value": "Equipment provided" },
+      { "label": "Meals", "value": "Breakfast, Lunch, Dinner" },
+      { "label": "Luggage", "value": "Carried by camels" },
+      { "label": "Water", "value": "Included during trek" },
+      { "label": "Guide", "value": "Expert desert guide" },
+      { "label": "Camel Driver", "value": "Experienced team" }
+    ],
+    "timeline": [
+      {
+        "title": "Day 1 — Merzouga → Erg-Chebbi Dunes → Desert Camp",
+        "description": "Depart on foot across the majestic Erg-Chebbi dunes. Enjoy desert silence, meet nomadic families, and settle in your desert camp for dinner and stargazing.",
+        "walkingTime": "5–6h walking",
+        "meals": "L, D"
+      },
+      {
+        "title": "Day 2 — Desert Camp → Black Desert → Berber Family Camp",
+        "description": "Trek through Black Desert plains. Meet Berber families, learn traditions, and spend the night in a camp far from village lights.",
+        "walkingTime": "5–7h walking",
+        "meals": "B, L, D"
+      },
+      {
+        "title": "Day 3 — Return via Erg-Chebbi → Merzouga",
+        "description": "Walk back through scenic dunes and plateaus to Merzouga village, ending your 3-day trek.",
+        "walkingTime": "4–5h walking",
+        "meals": "B, L"
+      }
+    ],
+    "info": {
+      "includedTitle": "Included",
+      "includedItems": [
+        "Camping requirements (tent, mattress, blankets)",
+        "Meals: Breakfast, Lunch, Dinner",
+        "Camels to carry luggage",
+        "Water during the trek",
+        "Camel driver and desert crew",
+        "Expert local tour guide"
+      ],
+      "notIncludedTitle": "Not Included",
+      "notIncludedItems": [
+        "Transportation to/from Merzouga",
+        "Travel insurance",
+        "Personal expenses",
+        "Tips and optional activities"
+      ]
+    }
+  },
+  "merzouga-seven-days": {
+    "hero": {
+      "title": "Merzouga Desert Trekking & Hiking",
+      "subtitle": "Explore the Sahara and Erg-Chebbi dunes like a true Berber nomad",
+      "stats": [
+        { "value": "1–7 Days" },
+        { "value": "Dunes & Rocky Desert" },
+        { "value": "Merzouga, Morocco" },
+        { "value": "Oct–Apr" }
+      ]
+    },
+    "journey": {
+      "title": "Explore the Hidden Gems of Merzouga",
+      "description1": "Hiking in Merzouga takes you deep into the Sahara to discover the hidden beauty of Erg-Chebbi dunes and Black Desert.",
+      "description2": "Spend peaceful nights under the stars, enjoy candlelight dinners, and meet locals to learn their traditions.",
+      "elevation": "850m",
+      "elevationLabel": "Average Altitude"
+    },
+    "trekDetails": [
+      { "label": "Camping", "value": "Equipment provided" },
+      { "label": "Meals", "value": "Breakfast, Lunch, Dinner" },
+      { "label": "Luggage", "value": "Carried by camels" },
+      { "label": "Water", "value": "Included during trek" },
+      { "label": "Guide", "value": "Local expert guide" },
+      { "label": "Camel Driver", "value": "Experienced desert team" }
+    ],
+    "timeline": [
+      {
+        "title": "Day 1 — Discover Erg-Chebbi Dunes by Walking",
+        "description": "Explore the golden Erg-Chebbi dunes, learn about nomadic life, and enjoy dinner under the stars at camp.",
+        "walkingTime": "4–5h walking",
+        "meals": "L, D"
+      },
+      {
+        "title": "Day 2 — Trek to Erg-Chebbi Dunes & Berber Families",
+        "description": "Cross deep desert landscapes to visit local families. Share tea and camp far from village lights to enjoy the night sky.",
+        "walkingTime": "5–6h walking",
+        "meals": "B, L, D"
+      },
+      {
+        "title": "Day 3 — Hike the Black Desert & Deep Erg-Chebbi Area",
+        "description": "Traverse soft sand, black volcanic stones, and hidden oases. Follow nomad routes and ancient caravan paths before resting at camp.",
+        "walkingTime": "5–7h walking",
+        "meals": "B, L, D"
+      },
+      {
+        "title": "Day 4–7 — Extended Sahara Expeditions",
+        "description": "For longer treks, continue toward Znigui, Ouzina, and western Merzouga dunes. New landscapes, nomadic encounters, and unforgettable sunsets each day.",
+        "walkingTime": "5–7h daily",
+        "meals": "B, L, D"
+      }
+    ],
+    "info": {
+      "includedTitle": "Included",
+      "includedItems": [
+        "Camping requirements (tent, mattress, blankets)",
+        "Meals: Breakfast, Lunch, Dinner",
+        "Camels to carry luggage",
+        "Water during the trek",
+        "Camel driver and desert crew",
+        "Expert local tour guide"
+      ],
+      "notIncludedTitle": "Not Included",
+      "notIncludedItems": [
+        "Transportation to/from Merzouga",
+        "Travel insurance",
+        "Personal expenses",
+        "Tips and optional activities"
+      ]
+    }
+  },
+  "from-chefchaouen": {
+    "hero": {
+      "title": "3 Days Trekking from Chefchaouen",
+      "subtitle": "Explore the Rif Mountains, Waterfalls, and Villages",
+      "stats": [
+        { "value": "3 Days" },
+        { "value": "Moderate" },
+        { "value": "Rif Mountains, Morocco" },
+        { "value": "Mar–Nov" }
+      ]
+    },
+    "journey": {
+      "title": "Discover the Rif Mountains and Local Culture",
+      "description1": "Embark on a 3-day trek through Talassemtane National Park, hiking from Chefchaouen to Akchour. Enjoy forests, rivers, waterfalls, rock formations, and traditional Berber villages along the way.",
+      "description2": "Stay overnight in local guesthouses, immerse yourself in Moroccan hospitality, and witness stunning natural landscapes including panoramic mountain viewpoints, gorges, and cascades.",
+      "elevation": "1260m",
+      "elevationLabel": "Maximum Altitude"
+    },
+    "timeline": [
+      {
+        "title": "Day 1 — Chefchaouen → Tissouka → Afeska",
+        "description": "Begin your trek from Chefchaouen along forest paths with panoramic Rif views. Stop at Tissouka for vistas, then continue to the Berber village of Afeska. Evening with a host family in a village guesthouse.",
+        "walkingTime": "9h walking",
+        "meals": "D"
+      },
+      {
+        "title": "Day 2 — Afeska → God's Bridge → Akchour",
+        "description": "Hike through valleys and pine forests to the dramatic natural rock arch known as God's Bridge. Continue to Akchour beside the mountain river. Relax and explore. Overnight in a local guesthouse or eco-lodge.",
+        "walkingTime": "30min walking",
+        "meals": "B, D"
+      },
+      {
+        "title": "Day 3 — Akchour → Waterfalls → Chefchaouen",
+        "description": "Trek to the famous Akchour waterfalls, enjoy the cascades and natural pools (seasonal), then return to Chefchaouen by local taxi after lunch.",
+        "walkingTime": "1h walking",
+        "meals": "B, L"
+      }
+    ],
+    "info": {
+      "notIncludedTitle": "Not Included",
+      "notIncludedItems": [
+        "Travel insurance",
+        "Soft drinks and other unspecified beverages",
+        "Tips",
+        "Personal expenses"
+      ],
+      "includedTitle": "Included",
+      "includedItems": [
+        "English-speaking mountain guide",
+        "Breakfast, picnic lunch, and dinner",
+        "Overnight stays in local guesthouses or eco-lodges",
+        "All transfers and pick-up from Chefchaouen hotel",
+        "Immersive local cultural experience"
+      ]
+    }
+  },
+  "activities": {
+    "badge": "Adventure Activities",
+    "title": "Thrilling Desert & Mountain Experiences",
+    "subtitle": "Add excitement to your Morocco journey with our curated adventure activities, from quad biking to hot air balloon flights",
+
+    "from": "From",
+    "bookNow": "Book Now",
+    "viewAll": "Want to know more?",
+
+    "quadBiking": {
+      "title": "Quad Biking Adventures",
+      "description": "Experience thrilling off-road rides through desert landscapes, palm groves, and Atlas foothills on powerful ATVs.",
+      "duration": "2-4 Hours",
+      "features": [
+        "Agafay Desert or Palmeraie trails",
+        "Safety equipment & briefing included",
+        "Berber village visits"
+      ]
+    },
+
+    "camelTrekking": {
+      "title": "Camel Trekking",
+      "description": "Traditional Sahara experience on the 'ships of the desert' with sunset rides and tea ceremonies in authentic Berber camps.",
+      "duration": "1-3 Hours",
+      "features": [
+        "Sunset or sunrise departures",
+        "Traditional mint tea ceremony",
+        "Photo opportunities in Berber attire"
+      ]
+    },
+
+    "buggyTours": {
+      "title": "Buggy Desert Tours",
+      "description": "High-speed adventure for thrill-seekers with powerful two-seater buggies navigating challenging desert terrain.",
+      "duration": "2-4 Hours",
+      "features": [
+        "Two-seater buggies for couples",
+        "Navigate dunes & rocky trails",
+        "Professional guide support"
+      ]
+    },
+
+    "fourWheelDrive": {
+      "title": "4x4 Off-Road Expeditions",
+      "description": "Explore remote Atlas regions in comfort, accessing kasbahs, mountain passes, and traditional villages unreachable by regular vehicles.",
+      "duration": "Full Day",
+      "features": [
+        "Tizi n'Tichka pass & Ait Benhaddou",
+        "Todra Gorge & Dades Valley",
+        "Cultural stops & scenic photography"
+      ]
+    },
+
+    "hotAirBalloon": {
+      "title": "Hot Air Balloon Flights",
+      "description": "Bucket-list sunrise flights over Marrakech, Atlas Mountains, and desert landscapes with champagne breakfast included.",
+      "duration": "4-5 Hours",
+      "features": [
+        "Sunrise departure with Atlas views",
+        "Champagne breakfast included",
+        "Flight certificate & photos"
+      ]
+    },
+
+    "mountainBiking": {
+      "title": "Mountain Biking Adventures",
+      "description": "Pedal-powered exploration of Atlas valleys, Berber villages, and scenic trails with professional guides and support vehicles.",
+      "duration": "Half/Full Day",
+      "features": [
+        "Ourika Valley or Jebel Saghro routes",
+        "Quality bikes & safety equipment",
+        "Support vehicle included"
+      ]
+    }
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Glimpses of the incredible experiences waiting for you"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to start your Moroccan adventure? Get in touch with us today",
+    "badge": "Ready to start your adventure?",
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Ready to start your Moroccan adventure? Get in touch with us today",
+      "badge": "Ready to start your adventure?"
+    },
+    "quick": {
+      "title": "Quick Contact",
+      "subtitle": "Ready to start your Moroccan adventure? Get in touch with us today",
+      "whatsapp": "WhatsApp",
+      "phone": "Phone",
+      "email": "Email",
+      "whatsappDesc": "Chat with us on WhatsApp",
+      "chatNow": "Chat Now",
+      "callNow": "Call Now",
+      "phoneDesc": "Call us on our phone number",
+      "sendEmail": "Send Email",
+      "emailDesc": "Email us on our email address"
+    },
+    "social": {
+      "title": "Social Media",
+      "subtitle": "Ready to start your Moroccan adventure? Get in touch with us today",
+      "facebookFollowers": "1000 Followers",
+      "instagramFollowers": "1000 Followers",
+      "twitterFollowers": "1000 Followers",
+      "youtubeSubscribers": "1000 Subscribers"
+    },
+    "form": {
+      "title": "Send us a message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "firstNameLabel": "First Name",
+      "lastNameLabel": "Last Name",
+      "emailLabel": "Email Address",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again.",
+      "messageLabel": "Message",
+      "subtitle": "Discover Morocco's most breathtaking landscapes and cultural treasures"
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Meet Us At:",
+      "phone": "Call Us",
+      "email": "Email",
+      "follow": "Follow Us",
+      "mapTitle": "Interactive Map of Morocco",
+      "location": "Location"
+    }
+  },
+  "footer": {
+    "tagline": "Discover the magic of Morocco with authentic experiences, expert guides, and unforgettable memories in the Atlas Mountains and Sahara Desert.",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "homepage_tours": {
+    "sectionTitle": "Top Destinations",
+    "ribbon": "Destination",
+    "description1": "Morocco is a land of diverse landscapes, rich history, and vibrant culture. Whether you're seeking immersive city experiences, breathtaking desert adventures, or serene coastal escapes — Morocco has it all.",
+    "description2": "Discover unforgettable journeys with Tours from Marrakech, Tours from Fez, Tours from Casablanca, and Tours from Tangier, each offering a unique glimpse into the country's heritage. For shorter getaways, explore Day Trips from Marrakech and Day Trips from Fez, perfect for uncovering nearby hidden gems.",
+    "description3": "No adventure in Morocco is complete without thrilling Desert Activities — from camel trekking across the Sahara to exhilarating quad rides over golden dunes. Wherever your journey takes you, Morocco promises culture, adventure, and unforgettable memories.",
+    "cards": {
+      "fez7": {
+        "title": "7 Days Tour From Fez"
+      },
+      "marrakech15": {
+        "title": "11 Days Tour From Marrakech"
+      },
+      "tangier3": {
+        "title": "4 Days Tour From Tangier"
+      },
+      "casablanca2": {
+        "title": "2 Days Tour From Casablanca"
+      }
+    },
+    "tours": [
+      { "title": "7 Days Tour From Fez" },
+      { "title": "11 Days Tour From Marrakech" },
+      { "title": "4 Days Tour From Tangier" },
+      { "title": "2 Days Tour From Casablanca" }
+    ]
+  },
+  "trikkingTrips": {
+    "bookAdventure": "Book this adventure",
+    "trekDetails": "Trek Details",
+    "duration": "Duration",
+    "difficulty": "Difficulty",
+    "maxElevation": "Max Elevation",
+    "distance": "Distance",
+    "departure": "Departure",
+    "bestSeason": "Best Season",
+    "location": "Location",
+    "summitElevation": "Summit Elevation",
+
+    "toubkalSummit": {
+      "hero": {
+        "title": "Mount Toubkal Summit Trek",
+        "subtitle": "Conquer North Africa's highest peak and experience breathtaking Atlas Mountain vistas"
+      },
+      "journey": {
+        "title": "An Unforgettable Journey to the Roof of North Africa",
+        "description1": "Embark on an extraordinary adventure to Mount Toubkal, standing majestically at 4,167 meters above sea level. This iconic trek takes you through traditional Berber villages, alpine meadows, and rugged mountain terrain, offering an authentic taste of Morocco's High Atlas Mountains.",
+        "description2": "Experience the warmth of Berber hospitality, witness stunning sunrise views from the summit, and create memories that will last a lifetime. This carefully crafted journey combines physical challenge with cultural immersion, making it perfect for adventurous travelers seeking both natural beauty and authentic experiences."
+      },
+      "trekDetails": {
+        "duration": "3 Days",
+        "difficulty": "Moderate to Challenging",
+        "maxElevation": "4,167 meters",
+        "distance": "37 km total",
+        "departure": "Imlil Village",
+        "bestSeason": "April - October"
+      },
+      "highlights": {
+        "title": "Trek Highlights",
+        "items": [
+          "Summit North Africa's highest peak",
+          "Spectacular sunrise views from the summit",
+          "Traditional Berber villages experience",
+          "Toubkal Refuge mountain hut stay",
+          "Panoramic Atlas Mountain vistas",
+          "Alpine meadows and pristine nature"
+        ]
+      },
+      "included": {
+        "title": "What's Included",
+        "items": [
+          "Professional mountain guide",
+          "Transportation from Marrakech",
+          "All meals during the trek",
+          "Accommodation at Toubkal Refuge",
+          "Mule support for luggage",
+          "Safety equipment and first aid"
+        ]
+      }
+    },
+
+    "berberVillages": {
+      "hero": {
+        "title": "Berber Villages Cultural Trek",
+        "subtitle": "Immerse yourself in authentic Berber culture through remote mountain villages, terraced valleys, and traditional homestays."
+      },
+      "journey": {
+        "title": "A Cultural Journey Through the Heart of the Atlas",
+        "description1": "Discover the charm of Morocco's Berber heartland as you trek through ancient villages nestled among terraced valleys and walnut groves. This immersive experience offers an authentic glimpse into the daily life, traditions, and hospitality of the Berber people.",
+        "description2": "Spend nights in traditional homestays, savor homemade Moroccan cuisine, and enjoy scenic trails that wind through breathtaking mountain landscapes. Perfect for those seeking a meaningful cultural encounter combined with gentle trekking."
+      },
+      "trekDetails": {
+        "duration": "4-5 Days",
+        "difficulty": "Easy to Moderate",
+        "maxElevation": "2,500 meters",
+        "distance": "45 km total",
+        "departure": "Imlil Village",
+        "bestSeason": "March - November"
+      },
+      "highlights": {
+        "title": "Trek Highlights",
+        "items": [
+          "Multiple Berber village visits",
+          "Traditional homestays experience",
+          "Walnut groves and terraced valleys",
+          "Cultural encounters with locals",
+          "Scenic trails and panoramic views",
+          "Authentic local cuisine"
+        ]
+      },
+      "included": {
+        "title": "What's Included",
+        "items": [
+          "Experienced local mountain guide",
+          "Transportation from Marrakech",
+          "Accommodation in Berber homestays",
+          "All meals during the trek",
+          "Mule support for luggage",
+          "Cultural activities and local interactions"
+        ]
+      }
+    },
+
+    "grandTraverse": {
+      "hero": {
+        "title": "Toubkal Grand Traverse",
+        "subtitle": "The ultimate Atlas expedition for serious trekkers — a 7-day traverse through high passes, remote valleys, and multiple peaks."
+      },
+      "journey": {
+        "title": "An Epic Traverse Across the High Atlas",
+        "description1": "Embark on the ultimate trekking adventure across Morocco's High Atlas range. This challenging 7-day expedition takes you through rugged mountain passes, remote Berber valleys, and breathtaking alpine landscapes. Designed for experienced trekkers seeking a true expedition experience.",
+        "description2": "You'll cross multiple high passes above 3,000 meters, encounter isolated Berber communities, and explore untouched terrain rarely seen by casual hikers. The journey can optionally include a summit attempt of Mount Toubkal — North Africa's highest peak."
+      },
+      "trekDetails": {
+        "duration": "7 Days",
+        "difficulty": "Hard",
+        "maxElevation": "3,000 meters +",
+        "distance": "80 km total",
+        "departure": "Imlil Village",
+        "bestSeason": "June - September"
+      },
+      "highlights": {
+        "title": "Trek Highlights",
+        "items": [
+          "Complete High Atlas circuit",
+          "Cross 5+ high passes above 3,000m",
+          "Traverse remote valleys and untouched landscapes",
+          "Optional Mount Toubkal summit",
+          "Authentic encounters with Berber communities",
+          "Expedition-style trek for seasoned adventurers"
+        ]
+      },
+      "included": {
+        "title": "What's Included",
+        "items": [
+          "Certified mountain guide",
+          "All meals during the trek",
+          "Tents or refuge accommodations",
+          "Mule and porter support",
+          "Transportation from Marrakech",
+          "Safety and first-aid equipment"
+        ]
+      }
+    }
+  },
+  "tourDetails": {
+    "cta": {
+      "title": "Ready for Your Moroccan Adventure?",
+      "subtitle": "Join thousands of travelers who have discovered the magic of Morocco with us",
+      "primaryButton": "Book Your Adventure",
+      "secondaryButton": "Contact Us",
+      "button": "Book Your Trip Today"
+    },
+    "whyStart": {
+      "title": "Why Start Your Journey from "
+    },
+    "marrakech": {
+      "title": "Explore Trips from",
+      "highlightedText": "Marrakech",
+      "description": "Discover the vibrant culture, stunning palaces, and breathtaking desert adventures departing from Marrakech.",
+      "whyStart": {
+        "badge": "500+ Happy Travelers",
+        "description": "From Marrakech, explore the Sahara, ancient medinas, and taste authentic Moroccan gastronomy.",
+        "features": [
+          {
+            "title": "Desert Adventures",
+            "description": "Camel trekking and exploring the Sahara dunes"
+          },
+          {
+            "title": "Cultural Heritage",
+            "description": "Visit ancient medinas, palaces, and traditional souks"
+          },
+          {
+            "title": "Culinary Delights",
+            "description": "Taste authentic Moroccan dishes like tagine and couscous"
+          }
+        ]
+      },
+      "tours": [
+        { "title": "2 Days from Marrakech to Zagora" },
+        { "title": "3 Days from Marrakech to Merzouga" },
+        { "title": "8 Days from Marrakech to Merzouga" },
+        { "title": "11 Days from Marrakech to Casablanca" }
+      ]
+    },
+    "fez": {
+      "title": "Explore Trips from",
+      "highlightedText": "Fez",
+      "description": "Immerse yourself in the rich history and traditional craftsmanship of Fez while exploring nearby scenic destinations.",
+      "whyStart": {
+        "badge": "300+ Happy Travelers",
+        "description": "From Fez, dive into rich history, explore the Atlas mountains, and enjoy traditional Moroccan dishes.",
+        "features": [
+          {
+            "title": "Historical Sites",
+            "description": "Explore the medieval medina, tanneries, and ancient monuments"
+          },
+          {
+            "title": "Atlas Excursions",
+            "description": "Hike the Middle Atlas mountains and discover Berber villages"
+          },
+          {
+            "title": "Traditional Cuisine",
+            "description": "Sample local specialties like pastilla and harira soup"
+          }
+        ]
+      },
+      "tours": [
+        { "title": "2 Days from Fez to Merzouga" },
+        { "title": "3 Days from Fez to Casablanca" },
+        { "title": "7 Days from Fez to Marrakech" },
+        { "title": "9 Days from Fez to Marrakech" }
+      ]
+    },
+    "tangier": {
+      "title": "Explore Trips from",
+      "highlightedText": "Tangier",
+      "description": "Experience the unique blend of African and European influences, beaches, and historic sites starting from Tangier.",
+      "whyStart": {
+        "badge": "400+ Happy Travelers",
+        "description": "From Tangier, explore coastal adventures, historic sites, and savor fresh Mediterranean seafood.",
+        "features": [
+          {
+            "title": "Historic Blend",
+            "description": "Discover the mix of African and European architecture and culture"
+          },
+          {
+            "title": "Coastal Adventures",
+            "description": "Walk along cliffs, beaches, and scenic coastal paths"
+          },
+          {
+            "title": "Seafood Specialties",
+            "description": "Enjoy fresh seafood from the Mediterranean and Atlantic"
+          }
+        ]
+      },
+      "tours": [
+        { "title": "4 Days from Tangier to Marrakech" },
+        { "title": "8 Days from Tangier to Marrakech" },
+        { "title": "12 Days from Tangier to Marrakech" }
+      ]
+    },
+    "casablanca": {
+      "title": "Explore Trips from",
+      "highlightedText": "Casablanca",
+      "description": "Enjoy the modern city vibes and coastal attractions of Casablanca while embarking on unforgettable trips.",
+      "whyStart": {
+        "badge": "350+ Happy Travelers",
+        "description": "From Casablanca, explore modern architecture, urban life, and enjoy a mix of Moroccan and international cuisine.",
+        "features": [
+          {
+            "title": "Modern Architecture",
+            "description": "Admire the Hassan II Mosque and contemporary landmarks"
+          },
+          {
+            "title": "Urban Exploration",
+            "description": "Discover city neighborhoods and lively markets"
+          },
+          {
+            "title": "Gastronomy Experience",
+            "description": "Taste the fusion of Moroccan and international cuisine"
+          }
+        ]
+      },
+      "tours": [
+        { "title": "3 Days from Casablanca to Fez" },
+        { "title": "7 Days from Casablanca to Marrakech" },
+        { "title": "15 Days Sahara Tour from Casablanca" }
+      ]
+    }
+  },
+  "individualTours": {
+    "common": {
+      "duration": "Duration",
+      "startFrom": "Start From",
+      "availability": "Availability",
+      "rating": "Rating",
+      "overview": "Overview",
+      "highlights": "Highlights",
+      "includes": "What's Included",
+      "notIncluded": "Not Included",
+      "itinerary": "Itinerary",
+      "gallery": "Gallery",
+      "day": "Day",
+      "bookNow": "Book Now",
+      "contactUs": "Contact Us",
+      "everyday": "Everyday",
+      "tourNotFound": "Tour not found",
+      "tourNotFoundDescription": "The tour you're looking for doesn't exist."
+    },
+    "marrakech-zagora-2days": {
+      "title": "2 Days from Marrakech to Zagora",
+      "subtitle": "Sahara desert",
+      "duration": "2 Days",
+      "startFrom": "Marrakech",
+      "availability": "Everyday",
+      "overview": "Set off on a breathtaking 2-Day Marrakech to Zagora Desert. Travel through the stunning High Atlas Mountains via the Tizi n'Tichka pass, stopping at the UNESCO-listed Ait Ben Haddou Kasbah. Continue to Zagora, where you'll experience an unforgettable camel trek into the desert. Enjoy a magical night under the stars in a traditional Berber camp, complete with local music and a mesmerizing sunrise. On the second day, return to Marrakech, passing through Ouarzazate and taking in the ever-changing desert landscapes. This short yet immersive journey offers a perfect taste of Morocco's natural beauty, history, and culture.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "Camel ride and 1 night in desert camp.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Marrakech – ait ben haddo kasbah – Zagora (camel trekking)",
+          "description": "We'll meet you in Marrakech and drive to Ouarzazate through the dramatic Tizi n tichka pass (2260m), over the High Atlas Mountains, appreciating the fantastic of the landscape on twisted roads through the Berber villages. Arriving at the famous Ait Ben Haddou Kasbah: the oldest Kasbah in Morocco and now a UNESCO matrimonial historical site, housing many Glaoui family members. Lunch is in the Kasbah before continuing to Zagora where your camel waiting for you, guided by an experienced camel-man. You'll explore within the mysterious sea of sand. Here you'll spend the night under the stars, enjoying sunse and sunrise, dinner wil be served there, in addition to a unique drums music played by locals. The area is totally safe which offers a lifetime experience.",
+          "image": "/public//images/tours/Marrakech/camel_trek.jpeg"
+        },
+        {
+          "day": 2,
+          "title": "Zagora– back to Marrakech",
+          "description": "After breakfast we'll peacefully camel-trek back to your hotel base. En-route you won't fail to appreciate the unique beauty of the spectacular sand dunes – changing with the light as the day progresses. Arriving late morning back in Zagora and after shower at the guesthouse, we'll leave to Ouarzazate, once again over the Tizi N Tichka pass arriving in Marrakech at the evening in which our 2 days tour ends.",
+          "image": "/public/images/tours/Marrakech/hotel_base.jpeg"
+        }
+      ]
+    },
+    "marrakech-merzouga-3days": {
+      "title": "3 Day Morocco tours from Marrakech to Merzouga Sahara Desert",
+      "subtitle": "Sahara Desert Adventure",
+      "duration": "3 Days",
+      "startFrom": "Marrakech",
+      "availability": "Everyday",
+      "overview": "Experience an unforgettable 3-Day Sahara Desert Tour from Marrakech to the breathtaking Sahara Desert and back. Travel through the stunning High Atlas Mountains, visit the UNESCO-listed Kasbah of Aït Benhaddou, and explore the historic city of Ouarzazate. Enjoy a scenic drive through the Valley of Roses and the dramatic landscapes of Dades Gorges.\n\nVenture into the Sahara, passing through Todra Gorges and Erfoud before arriving in Merzouga. Embark on a camel trek into the dunes of Erg Chebbi, where you'll witness a mesmerizing sunset and spend a magical night at a desert camp with traditional Berber music under a starlit sky.\n\nOn the final day, ride your camel back to Merzouga, journey through the Draa Valley, and return to Marrakech, concluding an adventure filled with culture, breathtaking landscapes, and unforgettable desert experiences.",
+      "highlights": [
+        "Mountains views of High and Ani Atlas.",
+        "Cultural experience by visiting Kasbahs and monuments.",
+        "Camel trekking on the dunes of Merzouga.",
+        "Night at the Camp within huge Sahara dunes.",
+        "Local music in a night party."
+      ],
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "Camel ride and 1 night in desert camp.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Marrakech – High Atlas Mountains – Kasbah of Aït Benhaddou – Ouarzazate – Valley Of Roses – Dades Gorges",
+          "description": "3 DAY Sahara Desert starts in the morning, your driver/guide, will pick you up from anywhere you are in Marrakech and driver towards Dades Gorges through high atlas mountains\" Tizi- N-Tichka \" (2260m) higher, a long the way, we will have stops to visit and take pictures for a wonderful landscapes with different colors and the Berber villages… in the mid day, we will arrive to the Old Kasbah of Aït Benhaddou, you will have a free time to visit the Kasbah Aït Benhaddou which has been a UNESCO World Heritage Site since 1987 and several films have been shot there as Gladiator and the Mummy.\n\nAfter your visit and lunch, we will continue driving to Dades Valley, we will have a stop in Ouarzazate to Visit \"Taourirt Kasbah\". Afterwards, we go further south east to the green Dades valley and the city of roses via the fascinating Skoura palmery, we will arrive to Dades Valley in the evening overnight in a hotel/Riad with dinner and breakfast.",
+          "image": "/public/images/tours/Marrakech/kasbah.jpg"
+        },
+        {
+          "day": 2,
+          "title": "Dades Gorges – Todra Gorges – Tinjdad – Erfoud – sahara(Camel trekking and Night in desert Camp)",
+          "description": "After breakfast and shower, we will start our journey to Merzouga Sahara Desert, before we leave, we will visit Dades Gorges and will be a great chance to take a lovely pictures and nice view to see… we will continue driving toward Tinghir\" Todra Gorges \" there you will have a free time to walk around, then we go to the Tinjdad town where we will stop for lunch, after lunch we go to Merzouga Desert (where the camel trekking tours start from), we will pass through Erfoud the capital Moroccan city of fossil's, we will arrive to Merzouga in the afternoon around 16:00 to be ready for the camel riding into the Erg Chebbi dunes, before we leave to desert, the camels will be packed with water, food, blankets and everything else which we will need for the trip, each person will have his/her camel, you will ride camels for 1h 30 inside the dunes of Sahara Erg chebbi.At your arrival to the camp \"nomad tents\" you will leave your luggage in the tent and then you can walk in the dunes to watch the beautiful sunset and try a sand board in the sand dunes.\n\nAfter seeing the sunset, you will go down back to the camp, you will invite with a cup of tea which we called( Moroccan Berber Whisky ). Then, you will have your meal in the camp \" delicious Moroccan Berber tagine \", After dinner, the party will start. Listening to local berber nomads musicians play traditional music with drums and dancing around the campfire, after the party will be great opportunity to watch the magical sky full of stars and take a lovely pictures. Dinner and overnight in nomad camp.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 3,
+          "title": "Camel Riding back to Merzouga – Rissani – Draa Valley – Ouarzazate – Marrakech",
+          "description": "Early morning your \" Camel guide \" will wake you up to watch the sunrise from the top of dunes.Then, return by camels to the Hotel, after breakfast and shower we start driving to the huge palm grove of Tafilalet through Rissani and with Draa valley arrival at Ouarzazate, here you will have free time for lunch before getting back to Marrakech, Arrival will be in the evening and drop you off at your accommodation. And end of our services.",
+          "image": "/public/images/tours/Marrakech/5.jpg"
+        }
+      ]
+    },
+    "marrakech-merzouga-8days": {
+      "title": "8 Days Morocco tour from Marrakech",
+      "subtitle": "Sahara Desert Adventure",
+      "duration": "8 Days",
+      "startFrom": "Marrakech",
+      "availability": "Everyday",
+      "overview": "Experience an unforgettable 8-day from Marrakech to the Sahara Desert, exploring Morocco's rich history and natural beauty. Start with a sightseeing tour of Marrakech, including iconic sites like the Majorelle Gardens and the Koutoubia Tower. Then, travel through the High Atlas Mountains to the UNESCO-listed Ait Ben Haddou Kasbah and continue to the Dades Valley. Afterward, explore the majestic Erg Chebbi dunes in the Sahara, with a memorable camel trek and night under the stars in a traditional desert camp. Visit Rissani's historic souk, meet nomadic families, and enjoy a Berber meal before heading back to Ouarzazate. Conclude your adventure with scenic drives through the Draa Valley and High Atlas Mountains, returning to Marrakech for your departure. This tour is a perfect blend of history, culture, and adventure.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "Camel ride(1 camel for each person) and 1 night in desert camp.",
+        "Sandboarding.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrive To Marrakech Transfer To Your Riad",
+          "description": "Pick You Up From Airport To Your Accommodation.",
+          "image": "/public/images/tours/Marrakech/14.png"
+        },
+        {
+          "day": 2,
+          "title": "Marrakech Sightseeing",
+          "description": "After Breakfast We'll Explore Marrakech\"The Red City Of Morocco\". We Will Ensure You See The Most Important Historical And Cultural Sites, Including The Majorelle Gardens, The Koutoubia Tower, The Saadian Tombs, And The Bahia Palace. After Lunch At A Restaurant Near The Square We'll Take A Walk Through The Souks And The Rest Of The Day Will Be At Your Leisure.",
+          "image": "/public/images/tours/Marrakech/13.jpg"
+        },
+        {
+          "day": 3,
+          "title": "Marrakech – Ait Ben Haddou Kasbah – Ouarzazette – Dades Valley",
+          "description": "After Breakfast In Your Riad We Will Set Off For The Dades Valley. Passing Through Tizi-N-Tishka Pass In The High Atlas Mountains We Will Visit The Unesco World Heritage Site Of Ait Ben Haddou Which Has Been The Backdrop For Many Films Including Lawrence Of Arabia, Gladiator And Alexander. After Lunch We'll Enjoy The Wonderful Natural Landscapes And Historical Monuments Of Taourirt Kasbah In Ourzazate And The Roses Valley, Famous For Its Annual Festival Of Roses. We'll Also Pass Through The Berber Villages Of El Kelaa Des M'gouna Till Arrive To Dades Valley Where We Will Spend The Night In A Hotel With Dinner And Breakfast.",
+          "image": "/public/images/tours/Marrakech/kasbah.jpg"
+        },
+        {
+          "day": 4,
+          "title": "Dades Valley – Todra Gorge – Sahara",
+          "description": "Today's Target Point Is Arriving To Sahara Desert Which Is Known For The Highest Sand Dunes In North Africa. It Is Called Erg Chebbi Sahara Desert And It Is About 32 Km Long And 9 Km Wide. On Our Way, We Will Have The Chance To See Many Oasis Such As The Oasis Of Tinjdad. We Will Continue Our Tour Passing Through The Little Berber Towns Of Mellab And Touroug Where We Can Stop For Lunch In A Traditional Moroccan Restaurant. After This Break, We Will Continue Our Way Enjoying The Green Oasis Of Palm Trees Of Tafilalet And The Black Hamada Before Arriving To Merzouga, Where You Will Be Accommodated In A Traditional Moroccan Riad As Well As Having A Local Dinner.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 5,
+          "title": "Erg Chebbi Sahara Sightseeing – Camel Trekking",
+          "description": "After Breakfast In The Riad You'll Start Your Explorative Trip Of The Area, Starting By Visiting The 'Village Of The Blacks', Originally Slaves From Sudan, Mali And Senegal To Experience Their Music And Lifestyle. Later, We Will Drive In The Desert Area To Meet Nomad Families-Living Under Berber Tents- To Explore Their Way Of Life. Today Our Lunch Will Be A Traditional Berber Meal (Berber Pizza) With A Local Family. You Will Have The Option Also To Visit The Old City Of Rissani – The Foundation Of The Alaouite Dynasty – The Current Ruling Royal Family In Morocco. Rissani Is Surrounded By About 360 Ksar(A Fortified Village With Many Towers) And Has A Big Souk (An Open Market), Held Three Times A Week. Once Called Sijilmassa, This Was The Meeting Place For The Salt Caravans, Coming From Tombouctou In Mali. Here You'll Walk Through The Souk, Selling Spices, Vegetables And Cloths. After That, We Drive Back To The Village Of Merzouga. In The Afternoon, You Will Ride Your Camel Guided By An Experienced Camel-Man To Explore What Is Hidden In The Middle Of The Highest Sand Dunes In Morocco. The Camel Trek Takes About 1hr30 Min To The Camp Where You Will Enjoy The Sunset And Make A Deep Vision On The Sky By Its Stars And Shining Moon. Dinner Will Be Served In Front Of The Tent Where You Will Spend The Night. After Dinner You Will Have Chance To Song Berber Music With Drums Played By Locals.",
+          "image": "/public/images/tours/Marrakech/ergchebbi.jpeg"
+        },
+        {
+          "day": 6,
+          "title": "Merzouga – Draa Valley – Ouarzazate",
+          "description": "Before Sunrise, You Will Be Woken Up To Climb The Sand Dunes For Fantastic Pictures, And Watch What Well May Be The Best Sunrise In Your Life. After breakfast we continue Our Journey To Ouarzazate, Passing Through Alnif, Tazzarine, Nkob, And The Fantastic Draa Valley. We Will Spend The Night In A Guest House In Ouarzazate With Dinner And Breakfast.",
+          "image": "/public/images/tours/Marrakech/ouarzazate.jpeg"
+        },
+        {
+          "day": 7,
+          "title": "Ouarzazette – High Atlas Mountains – Marrakech",
+          "description": "After Breakfast, We Will Set Off For Marrakech, Passing Through The Spectacular High Atlas Mountains Again With Stops Before We Get To Your Riad In Marrakech.",
+          "image": "/public/images/tours/Marrakech/mountain.jpeg"
+        },
+        {
+          "day": 8,
+          "title": "Transfer To The Airport",
+          "description": "Airport Transfer Where Our 8 Days Tour From Marrakech To Sahara Desert Ends.",
+          "image": "/public/images/tours/Marrakech/aeroport.jpeg"
+        }
+      ]
+    },
+    "marrakech-casablanca-11days": {
+      "title": "11 Days Tour from Marrakech to Casablanca",
+      "subtitle": "Complete Morocco Adventure",
+      "duration": "11 Days",
+      "startFrom": "Marrakech",
+      "availability": "Everyday",
+      "overview": "This 11-day Morocco adventure takes you on a captivating journey through the country's rich culture, breathtaking landscapes, and historical landmarks. Starting in Marrakech, you'll explore the city's vibrant sights, including the Koutoubia Tower and Jemaa el-Fna Square, before heading towards the Atlas Mountains, Ait Benhaddou, and Dades Valley. Enjoy the majestic desert dunes of Merzouga with a camel ride and a luxurious camp experience. The tour continues through Rissani, Erfoud, and Midelt, reaching the spiritual city of Fes, where you will visit the UNESCO-listed medina and historic sites like the Qarawiyyin University. You'll also explore the Roman ruins of Volubilis and the imperial city of Meknes before experiencing the charm of Chefchaouen's blue-painted streets. The journey ends with visits to Rabat and Casablanca, where you'll tour the iconic Hassan II Mosque before departing from Mohammed V Airport. Perfect for those seeking an immersive experience of Morocco's history, culture, and natural beauty.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "Camel ride(1 camel for each person) and 1 night in desert camp.",
+        "Sandboarding.",
+        "Drop you off to your accommodation.",
+        "Bed & Breakfast in Marrakech, Fes, Chefchaouen and Casablanca.",
+        "Jeep/4×4 if needed to reach the Camp( alternative of Camel)."
+      ],
+      "notIncluded": [
+        "Dinner in Marrakesh, Fes, Chefchaouen and Casablanca.",
+        "Lunch during the tour.",
+        "Drinks.",
+        "Monuments entrance fees.",
+        "Tips."
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Marrakech and pick up to the Riad",
+          "description": "You will be welcomed by our team at MARRAKESH Menara Airport and drive to your accommodation in the AUTHENTIC part of the city.",
+          "image": "/public/images/tours/Marrakech/14.png"
+        },
+        {
+          "day": 2,
+          "title": "MARRAKESH sightseeing, guided tour",
+          "description": "After breakfast in your Riad, you will start to explore MARRAKESH \" the red city of Morocco\". You will visit the sites of historical and cultural interest, including the the Koutoubia Tower, the Bahia Palace, Ben Youssef Medrassa… And main square place of Jamaa Elfna. After lunch you will walk through the souks and view hundreds of handicrafts. Marrakech nicknamed the \"Red City\" for its old red sandstone city walls and buildings. It has Berber rather than Arab roots and was an important trading capital for tribes of the Atlas Mountains. Orient yourself around Marrakech's bustling Jemaa el-Fna Square : the souks are to the north, the Koutoubia Mosque and Gardens to the west and the kasbah area with the Saadian Tombs, Bahia Palace, and El Badi Palace are to the south. In the new city, you will find the Majorelle Gardens.\n\nYou will have free time in the evening while you finish the guided tour, night will be in the same Riad.",
+          "image": "/public/images/tours/Marrakech/marrakech-whystart.jpg"
+        },
+        {
+          "day": 3,
+          "title": "Marrakech – High Atlas – Ait Benhaddou – Dades Valley 360km",
+          "description": "Will pick you up from your Riad at 08;30 am before embarking on an interesting journey through fascinating landscapes. You'll initially drive through the spectacular High Atlas Mountains with its snow-capped peaks most of the year. Cross the Tizi n'Tichka Pass (2260 m) while enjoying the breathtaking views of the \"Berber\" Amazigh Villages that are built primarily in adobe & stones by the ever-flowing river. Within these villages we are going to visit Argan Cooperative where local women are going to abstract different products… this place is known as the best for pure and high quality of Argan oil compared to the mian cities.\n\nYou'll take a walking tour of the UNESCO listed Ait Benhaddou Village. This dramatic village consists of numerous (fortresses) that are a striking sample of the southeastern architecture with high four towers & small atop windows. It has been used as a backdrop for shooting national & international films such as Gladiator, Lawrence of Arabia, Sahara, Kingdom of Heaven, Prince of Persia and many others.\n\nWe continue to through Ouarzazate (Hollywood of Africa) with the possibility to include a visit to the local Atlas Film Studios. Drive through the palm-dotted oasis of Skoura, Valley of Roses before reaching Boumalne Dades where we will spend our night. (Dinner & Breakfast are Included) 360 klm.",
+          "image": "/public/images/tours/Marrakech/kasbah.jpg"
+        },
+        {
+          "day": 4,
+          "title": "Dades Valley – Todra Gorge – Merzouga & Camel Ride 255 klm",
+          "description": "After having breakfast in your hotel, we will resume our journey further Southeast to the Sahara Desert of Erg Chebbi. Stretch your legs in the impressive Todra Gorge (Canyon) that offers an excellent opportunity to enjoy the breathtaking views with the possibility to spot mountain climbers along with locals who would come to enjoy the cooler weather compared to other parts of the South. You'll drive through the palm oasis of Tinjdad where we may have lunch, then continue to the Desert through the administrative center of Erfoud. After a while we reach Merzouga Desert, you leave the Car and you'll have your camel ride experience through the golden sand dunes of Erg Chebbi. Enjoy the stunning views of the sunset with the possibility to do the sand-boarding before reaching the luxury desert camp where you'll have a delicious dinner within the Camp. After that, we will have New Year's entertainment; special local music… You can enjoy the starry sky in a romantic atmosphere. Overnight in a Desert Camp by the sand dunes : private tent with hot water : shower and WC (Dinner & Breakfast are Included)",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 5,
+          "title": "Merzouga – Rissani – Erfoud – Midelt – Zaida 304km",
+          "description": "After a stunning sunrise view on the dunes of Sahara and breakfast, we continue back to the Van. We start our day by visiting the town of Khamlia where most of inhabitants originally from Sudan and Mali, even they are intergrated in local culture but, they still conserve their African Gnawa music. We are going to listen to their spiritual music in one of the associations. After that, we continue to a famous local market of Rissani where we are going to walk around to discover this unique Souk and to admire the variety of products…\n\nFrom Rissani we pass by Erfoud known as the Capital of fossils in Morocco ; we do a visit of fossils factory to get more info about. Lunch will be in one of the Villages, then we drive through Ziz Gorges, Medilt before we reach Zaida where we are going to spend the night near Milddle Atlas Mountains.",
+          "image": "/public/images/tours/Marrakech/merzouga.jpeg"
+        },
+        {
+          "day": 6,
+          "title": "Timhdet – Cedar Forest – Ifrane – Fes 160Km",
+          "description": "After having breakfast, we will head north to the spiritual city of Fes by driving through Middle Atlas Mountains till we reach the UNESCO preserved cedar forest. This forest hosts a colony of Barbary Apes that you can possibly meet & feed. Have a break in the beautiful city of Ifran before reaching Fes in the late afternoon.",
+          "image": "/public/images/tours/Marrakech/ifrane.jpeg"
+        },
+        {
+          "day": 7,
+          "title": "Guided Tour of Fes",
+          "description": "Today, you'll have an interesting day of what Fes has to offer. Your local tour guide will share with you his/her knowledge of this authentic city. Enjoy the views of the Fes el-Bali (Oldest Fes), this UNESCO listed Medina as a World Heritage Site is the largest car-free district in the world. Cars have no space here & only mules and donkeys are the only means of transportation. We will start by visiting the outside part: to take pictures by the golden gates of the Royal Palace, then stretch your legs in the vibrant Jewish Mellah (Quarter) where you'll learn about the role that the Jews played in turning Fes into a main commercial center then to the famous Ceramic pottery and back to Medina. Now, it's time to get inside the vibrant & the authentic Fes el-Bali. You'll visit the local museums, pass by the old Medersas (Koranic Schools) including the Qarawiyyin University & Mosque (The Oldest University in the Islamic World). Visit the Chouara Tanneries where you can learn about how leather is being made using traditional methods & ingredients. Your tour guided will escort you back to your Riad in the late afternoon.",
+          "image": "/public/images/tours/Fez/2.jpg"
+        },
+        {
+          "day": 8,
+          "title": "Fès – Meknès – Volubilis-Chefchaouen 282klm",
+          "description": "After having breakfast in your Riad, you'll continue on the track further north with a nice drive through the spectacular Rif Mountains that offer majestic views. While including a visit to the Roman Ruins of Volubilis where you can have a guided tour with a local guide. You'll learn about the Roman lifestyle when they settled in Morocco. Before Volubilis we are going to discover the Imperial city of Meknes, this unique city goes back to the 17th century when the late Sultan Moulay Ismail put the solid ground for the Alaouite Dynasty that is still ruling Morocco to this day. We'll include a short break by the impressive Bab Mansour Gate with its geometric designs depicting the elaborate Moroccan Islamic Architecture. Stretch your legs in the vibrant El-Hedim Square and the olive market before driving through the High Walls of the Royal Palace. You'll arrive at the Granaries & stables where the Sultan used to store grains & barley along with the stables where feeding and looking after the 12000 royal horses used to take place. We are going to have lunch somewhere in Rif Mountains before reaching the blue-painted city of Chefchaouen in the late afternoon. You may want to stretch your legs in the evening to get a first glimpse of this unique but charming city.",
+          "image": "/public/images/tours/Fez/5.jpg"
+        },
+        {
+          "day": 9,
+          "title": "full Day to discover Chefchaouen",
+          "description": "Today, you will spend all the day meandering around the blue-painted streets of Chefchaouen Medina starting from the vibrant Utta Hammam, which is located in the heart of Medina. You may want to visit the Kasbah (fortress) where you can learn that it's the reason behind the foundation of Chefchaouen by the warrior Moulay Ali Ibn Rashid to organize attacks against the Portuguese & Spanish invaders. Continue on the track to the Ras el-Ma Spring offering stunning views with local women washing clothes & carpets. You may want to have a soft hike up to the mosque where you can get a complete view of the old Medina of Chefchaouen. Night in the same Riad.",
+          "image": "/public/images/tours/Chefchaouen/image-1.png"
+        },
+        {
+          "day": 10,
+          "title": "Chefchaouen – Rabat- Casablanca 340klm",
+          "description": "We leave Chefchaouen and drive West to Casablanca through many local villages and the Capital administrative of the Kingdom Rabat. We are going to visit the main attractions of Rabat like Hassan Tower and Kasbah Ouadaya. After lunch we drive to Casablanca where we pass the night.",
+          "image": "/public/images/tours/Casablanca/image-1.jpg"
+        },
+        {
+          "day": 11,
+          "title": "visit the famous Hassan II mosque- Driver to Mohammed V Airport",
+          "description": "Casablanca is a giant city with high skyscrapers turning into the economic capital of Morocco. You'll have a guided tour of the Hassan II Mosque(The only mosque which Non-Muslims are allowed to visit in Morocco), is the focal point and the landmark of the city. The Mosque is the third largest religious building in the Islamic World & is an actual masterpiece of architecture depicting the unique Moroccan & Andalusian craftsmanship. After that, Will drive to the Airport where our service gets to end.",
+          "image": "/public/images/tours/Casablanca/casaaero.jpg"
+        }
+      ]
+    },
+    "fes-marrakech-2days": {
+      "title": "2 Days Desert Tour From Fes to Marrakech",
+      "subtitle": "Sahara Desert Adventure",
+      "duration": "2 Days",
+      "startFrom": "Fes",
+      "availability": "Everyday",
+      "overview": "Experience the best 2-day Sahara Desert tour from Fes to Marrakech, a perfect choice for travelers with limited time who still want to explore Morocco's stunning desert landscapes. This tour offers a unique journey through the Sahara Desert, where you'll experience camel trekking across the Erg Chebbi dunes, spend a night in a desert camp under the stars, and visit breathtaking locations like Ifrane, the Cedar Forest, Midelt, and the Ziz Gorges. Along the way, explore Kasbahs, gorges, and palm oases, and enjoy sand-boarding in the dunes. The journey also includes stops at Rissani and Ait Ben Haddou, both steeped in history, and a drive through the Atlas Mountains. With comfortable accommodation options and the opportunity to immerse yourself in the Sahara's tranquil beauty, this short tour offers an unforgettable Moroccan adventure.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Overnight in Sahara Camp with Dinner and Breakfast.",
+        "Camel per person to reach the Camp.",
+        "Sandboarding."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Fes- Ifran- Cedar- Forest- Midelt- Merzouga- Camel Trekking",
+          "description": "Our Crew Will Meet You At Your Accommodation Early As Much As Possible Then Drive Towards The South East Of Morocco Out Of The City Crowd Passing By Many Berber Villages, Our First Stop Will Be In One Of The Cleanest Moroccan Town Called Ifrane Which Known As Switzerland Of Morocco, From Here To The Largest Cedar Forest Of Azrou Where You Will Have The Chance To See Wild Monkeys Jumping Between The Trees. The Tour To Sahara Desert Continue To Midelt ; One Of The Small Cities In Atlas Mountains, Here You Will Have Lunch If You Mind. After, We Cross High Atlas Mountains From Tizi N Talghmt To Reach Ziz Gorges Where You Will Notice The Change Of Landscape From The Whole Green To Desert One. After A Couple Hours Of Driving You Will Get To Merzouga Sahara Desert Where You Will Have A Lifetime Experience Starts By Camel Trekking [Around 1h30] Going Up And Down On The Dunes With Several Stops To Capture A Unique Pictures Of The View And Of Sunset Before Getting To The Camp; Could Be Luxury Or Standard One Depends On Your Choice. You Will Be Welcome With A Cup Of Tea While You Get To The Camp, Then The Staff Will Guide You To Your Accommodation Which Is A Comfortable Tent. A Delicious Dinner Will Be Served At The Camp After The Ambiance Takes Over; Local Drums Music Played By The Staff Under The Starry Sky. Sahara Desert Atmosphere Offers A Fantastic Moments In Which The Person Being In Contact With The Silence And Tranquility Of Nature.",
+          "image": "/public/images/tours/Marrakech/camel_trek.jpeg"
+        },
+        {
+          "day": 2,
+          "title": "Merzouga- Rissani- Agdez- Ourzazate- Ait Ben Haddo- Marrakech",
+          "description": "You Will Wake Up Early To Enjoy The Beauty Of Sunrise And Take Pictures, Then Having Breakfast And Shower Before The Journey Back; Either By Camel Or 4×4 In Order To Save Time Accordingly To The Distance To Marrakech, To Merzouga Village Where Your Driver Waiting For You. The Itinerary Will Make You To Pass Through Rissani; The Foundation Of Alaoui Dynasty Which Is Ruling Morocco Till Now, Alinf, Tazarine And Rock Desert Till You Reach Ouarzazate; Know As The Hollywood Of Africa, International Movies Have Been Shot In Its Film Studios Such As Gladiator, Game Of Thrones… After Having Lunch, We Continue Our Sahara Desert Tour From Fes To The Famous And Oldest Kasbah In Morocco Ait Ben Haddou[Part Unesco Since 1987] A Break To Take Pictures Of This Mud Building From A Panoramic View, Then To Cross High Atlas Mountains From The Pass Of Tizi N Tichka With Elevation Of 2260m Before You Get To Marrakech Where Sahara Desert Trip From Fes Gets To End.",
+          "image": "/public/images/tours/Marrakech/merzouga.jpeg"
+        }
+      ]
+    },
+    "fes-casablanca-3days": {
+      "title": "3 days tour from Fes to Casablanca via chefchaouen",
+      "subtitle": "Morocco Cities Tour",
+      "duration": "3 Days",
+      "startFrom": "Fes",
+      "availability": "Everyday",
+      "overview": "Start your 3-day Morocco tour from Fes to Casablanca, with visits to the enchanting Chefchaouen, historic Meknes, and the ancient Roman ruins of Volubilis. On Day 1, depart from Fes, explore Meknes and the ruins of Volubilis, then spend the night in the blue-painted medina of Chefchaouen. Day 2 offers a free morning to discover Chefchaouen before heading to Tangier, with an overnight stay in the coastal town of Assilah. On Day 3, visit Rabat's historic monuments before concluding your journey in the vibrant city of Casablanca. This tour is flexible to fit your schedule and preferences, so feel free to contact us for personalized adjustments to your itinerary.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfort transport with A/C.",
+        "Experienced English speaking driver / guide.",
+        "Highly recomended accommodations in Chefchaouen and Assilah."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Dinners.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Fes to Chefchaouen and Tangier",
+          "description": "Start your unforgettable 3-day tour from Fes at 8:30 AM, when your driver will pick you up to embark on a scenic journey toward Chefchaouen, the blue city nestled in the Rif Mountains. Chefchaouen is famous for its stunning blue-washed buildings and narrow, charming streets. Take time to wander through this picturesque town, often referred to as the \"Blue Pearl of Morocco.\" Enjoy a delightful lunch as you soak in the beauty of this serene destination. Next, continue your journey to Tangier, with a stop at the UNESCO World Heritage site of Volubilis, an ancient Roman city that offers a glimpse into Morocco's rich history. By evening, you'll reach Tangier, a bustling port city on the Strait of Gibraltar. After a day of exploration, you'll be dropped off at your hotel in Tangier to relax and rest for the next day's adventure.",
+          "image": "/public/images/tours/Tangier/image-3.jpg"
+        },
+        {
+          "day": 2,
+          "title": "Tangier to Asilah, Rabat, and Casablanca",
+          "description": "After a hearty breakfast at the hotel, begin your day with a tour of Tangier. Visit the highlights of this lively city, including the Grand Mosque, the Medina, and the American Legation Museum. Enjoy panoramic views of the coast from Cape Spartel, and explore the Cave of Hercules. Next, head to the coastal town of Asilah, known for its stunning blue-and-white architecture and laid-back vibe. Stroll through its quaint streets, visit the 18th-century fortress, and enjoy breathtaking views of the Atlantic Ocean. After lunch in Asilah, continue your journey to Rabat, the capital of Morocco. Here, you'll discover the city's historical treasures, including the iconic Hassan Tower, a remarkable Minaret from 1195 AD, and the Mausoleum of Mohammed V and Hassan II. Explore the tranquil Andalusian Gardens and the Kasbah of the Udayas before departing for Casablanca. Arriving in Casablanca, Morocco's economic hub, you'll be dropped off at your accommodation to unwind and enjoy a delicious dinner.",
+          "image": "/public/images/tours/Rabat/2.jpg"
+        },
+        {
+          "day": 3,
+          "title": "Discovering Casablanca's Iconic Sights",
+          "description": "On the final day of your tour, start by visiting the impressive Hassan II Mosque, one of the largest mosques in the world. This architectural marvel, with Africa's tallest minaret, is open to non-Muslim visitors. Remember to remove your shoes and cover your head before entering. Next, explore the Old Medina, the historic heart of Casablanca. Wander through its narrow streets, admire the traditional Moroccan architecture, and experience the vibrant atmosphere. Afterward, visit Place Mohammed V, the main square in the Old Medina, a great spot to relax and people-watch. Then, head to Ville Nouvelle, the modern center of Casablanca, home to the city's business district, shopping centers, and trendy restaurants. End your tour with a visit to Place des Nations Unies, a lively square in Ville Nouvelle that's popular with both locals and visitors. If you're in the mood for nightlife, Casablanca has plenty to offer, from vibrant bars to entertainment venues. After a day filled with sightseeing, your driver will drop you off at your hotel, marking the end of your unforgettable 3-day tour through Morocco's cities.",
+          "image": "/public/images/tours/Casablanca/image-1.jpg"
+        }
+      ]
+    },
+    "fes-marrakech-7days": {
+      "title": "7 Days Desert Tour From Fes",
+      "subtitle": "Complete Morocco Experience",
+      "duration": "7 Days",
+      "startFrom": "Fes",
+      "availability": "Everyday",
+      "overview": "Take part in a breathtaking 7-day journey through Morocco, from the historical city of Fes to the vibrant streets of Marrakech. Explore Fes's rich cultural heritage, including the Al Karaouine Mosque and the Royal Palace. Journey through the stunning landscapes of the Middle Atlas Mountains, where you'll visit the charming town of Ifrane and encounter Barbary monkeys in Azrou. Continue your adventure to the Sahara Desert, where you'll experience the tranquility of Merzouga's dunes, enjoy a camel trek, and sleep under the stars. Discover the beauty of Todra Gorge, Dades Valley, and the cinematic allure of Ouarzazate. Visit the UNESCO World Heritage site of Ait Benhaddou, and end your journey with a full exploration of Marrakech's gardens, palaces, and bustling souks. This well-rounded tour combines Morocco's history, culture, nature, and modern vibrancy, leaving you with lasting memories.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "Camel ride and 1 night in desert camp.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Fez Sightseeing",
+          "description": "After Breakfast In Your Riad, You Will Start Exploring Fes\" The Spiritual City Of Morocco\". You Will Spend The Whole Morning Exploring The Medina, Visiting Most Of The Sites With Cultural And Historical Interest – Including The Famous Al Karaouine Mosque And University (The Oldest In The World), The Tanneries And The Najjarine Fountain. After Lunch, We Will Drive Outside The Medina To See The Royal Palace Gate, Walk Through The Jewish Quarter\" The Mellah\", Then To Visit The Pottery Cooperative. Afternoon, We Will Drive To One Of The Fortresses To Experience An Amazing Panoramic View Of The Whole Medina Of Fes. Overnight Accommodation Will Be In An Authentic Riad In The Heart Of Old Medina.",
+          "image": "/public/images/tours/Fez/4.jpg"
+        },
+        {
+          "day": 2,
+          "title": "Fez – Ifrane – Azrou – Medilt – Sahara",
+          "description": "After Breakfast, We Leave Fes And Driving Towards The Magical Middle Atlas Mountains. We Will Stop In The Charming Town Of Ifrane; Which Known As 'Switzerland Of Morocco', Because Of The Weather, Architecture And Historical Events. We Will Have A Short Break In Order To Walk Around Before We Continue To The Largest Cedar Forest Of Morocco Beside A Beautiful Town Of Azrou, Where You Will Have Chance To See Barbary Monkeys Living In A Wild Area. After That, We Keep Driving Between The Mountains Passing Through Many Berber Villages Like Timhdit, Zaida And Medilt. Then We Drive Further South Crossing The Mountains Of The High Atlas Till We Get To Errachidia Where The Valley Of Palm Trees Appears, These Create An Oasis Of Greenery Ideal For Growing All Kinds Of Fruit Trees And Vegetables Microclimate. After A While We Reach Erfoud; The Capital Of Fossils, Which Abound Testifying Past Covered By The Sea. From Here The Asphalt Disappears, Saharan Tracks Adobe Till We Reach The Village Of Merzouga; The Main Town In Sahara Desert. Overnight At The Hotel Closed To The Dunes With Dinner And Breakfast.",
+          "image": "/public/images/tours/Fez/azrou.jpeg"
+        },
+        {
+          "day": 3,
+          "title": "Merzouga Sightseeing",
+          "description": "In This Interesting Day We Will Explore Erg Chebbi More Deeply. We Will Visit The Town Of Khamlia, We Discover Small Villages And Inhabited Houses In Unexpected Places Far From Civilization. In Addition To That, We Will Visit Nomads Who Feel So Happy To Share Their Lifestyle With Their Visitors. Our Journey Continue To Discover An Old Mines Closed To The Borders Between Morocco And Algeria, Found By French Since Many Years Ago. Then We Go Back To The Town Where We Will Have A Typical Lunch Especially Of The Area Called\" Berber Pizza\". After Having Lunch You Will Have A Lifetime Experience Starts By Camel Trekking; Friendly Camels Guided By A Man With Experience Of Many Years Going Up And Down On Sand With Different Stops To Take Pictures Of Landscapes And Amazing Sunset, Around 1h30 Walking We Get To The Camp; Located In The Heart Of Desert Where You Will Have Your Dinner And Enjoy The Berber Music Played By Locals Under A Starry Sky. In The Morning You Will Wake Up Early In Order To Admire The Fascinating View Of Sunrise, Before You Go Back To The Hotel By Riding Your Camel Again Till The Hotel Where You Will Have Breakfast And Take A Shower.",
+          "image": "/public/images/tours/Marrakech/merzouga.jpeg"
+        },
+        {
+          "day": 4,
+          "title": "Merzouga – Todra Gorge – Dades Valley – Ouarzazate",
+          "description": "After Breakfast We Departure To Rissani; Old Sijilmassa Center Of Ancient Caravans From Toumboukto To Marrakech As Center Market Of Salt. After Walking Around The Biggest Market Of The Region We Continue Our Trip Through A Semi-Desert Landscape Till We Reach The Oasis Of Tinghir, One Of The Wonderful Places In Morocco. Then We Get To Todra Gorges Highest And Narrowest Gorges With 300m Which Considered An Attractive Place For Climbers. After Having Lunch, We Continue The Way Until Another Impressive Valley Of Dades And To The City Of Roses; The Area Where The Real Flower Grows Called Damskina, Short Break If You Are Interested To See How They Abstract Different Products From Roses In One Of The Cooperatives There. Then, We Drive Through A Famous Road Known As\" Road Of Thousand Kasbahs\" To Reach One Of The Most Important Cities Of Southern Morocco Ouarzazate, Known For Its Intense And Cinematic Activity, Having To His Credit Films Like Gladiator, Troy, The Mummy Etc Made In A Big Studio Called Atlas Corporation Studios, You Can Have A Visit Before We Get To The Hotel Where We Will Spend The Night With Dinner And Breakfast.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 5,
+          "title": "Ouarzazate – Ait Benhaddou -Marrakech",
+          "description": "After Breakfast, We Take The Road Towards Ait Ben Haddou, The Queen Of Kasbahs (Unesco World Heritage) And Walk Around. Later We Will Visit One Of The Most Wonderful Tracks Of Morocco\"Kasbah Of Telouet\", Ancient Glagui's Palace Pacha Of Marrakech. We Continue Our Way Through The Port Of Highest Pass In Morocco – Tzin Tichca (2,260 M), Where We Will Have Breaks For Panoramic Views And Lunch Before We Reach The Imperial City Of Marrakech. Overnight At Riad.",
+          "image": "/public/images/tours/Marrakech/ouarzazate.jpeg"
+        },
+        {
+          "day": 6,
+          "title": "Marrakech City Tour",
+          "description": "After Breakfast, We Spend Full Day Tour To Discover Marrakech With A Local Guide. Called \"The Red City\" Because Of The Color Of Its Walls And Filled With Gardens, Watered By Underground Wells (Khettaras), Which Were Built By The Almoravids And Saharan Nomads In The Eleventh Century. In This Day We Will Visit Menara, The Saadian Tombs, The Bahia Palace, The Koutoubia, Majorelle Gardens And Souks, These Are Some Of The Unavoidable Visits. A Unique Experience Will Be To Discover The Square Of\" Djemaa El Fna\" Where Life And Activity Of The City Is Concentrated: Dancers, Storytellers, Jugglers, Artisans, Merchants And Snake Charmers. While You Discover These Important Places You Will Have Free Time To Walk By Yourselves. Overnight In The Same Riad.",
+          "image": "/public/images/tours/Marrakech/image-2.jpg"
+        },
+        {
+          "day": 7,
+          "title": "Marrakech – Airport",
+          "description": "Free Time Until Your Flight Departure Then We Drive To Airport And This Will Be The End Of The Tour",
+          "image": "/public/images/tours/Marrakech/aeroport.jpeg"
+        }
+      ]
+    },
+    "fes-marrakech-9days": {
+      "title": "9 Days Desert Tour From Fes",
+      "subtitle": "Ultimate Morocco Journey",
+      "duration": "9 Days",
+      "startFrom": "Fes",
+      "availability": "Everyday",
+      "overview": "Experience the magic of Morocco on a 9-day Sahara Desert tour from Fes to Marrakech, a journey that combines adventure, culture, and breathtaking landscapes. Begin your adventure with a scenic day trip to Chefchaouen, the famous Blue Pearl of Morocco, nestled in the Rif Mountains. Explore the historical and cultural sites of Fes, including the Al Karaouine Mosque, the world's oldest university, and the vibrant Medina of Fes. Continue through the Middle Atlas Mountains to the Sahara Desert, where you'll experience camel trekking in the Erg Chebbi dunes and spend a night under the stars at a desert camp. Visit the stunning Todra Gorge, the Dades Valley, and the famous Kasbah Ait Benhaddou, a UNESCO World Heritage site. Journey through the cinematic city of Ouarzazate, known as the Hollywood of Morocco, and admire panoramic views from the Tizi n'Tichka Pass in the High Atlas Mountains. Conclude your tour with a full day of sightseeing in Marrakech, exploring the iconic Djemaa El Fna Square, Majorelle Gardens, Saadian Tombs, and the Koutoubia Mosque. Enhance your experience with an optional day trip to Ouzoud Waterfalls, Essaouira, or Ourika Valley, or relax and soak in the vibrant atmosphere of Marrakech. This 9-day Morocco desert tour offers the perfect balance of adventure, culture, and relaxation, giving you a deep dive into the best of Morocco's history, desert landscapes, and imperial cities.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "Camel ride and 1 night in desert camp.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Day Trip To Chefchaouen",
+          "description": "Departure At 8 Am, It's A Full Day Trip Around 3 Hours Driving Through Fascinating Landscape; Green Mountains And Small Villages With Stops To Admire The View. Within Rif Mountains Located The Calmest And Relax Village Of Chefchaouen Which Has Multiple Nicknames Such As; Blue Pearl, Blue City… While You Get There You Will Have Free Time To Walk And Explore The Medina, Its Walls Are Washed In Blue And White, These Colors Offer A Fantastic Place For Photography. You Will Discover Many Things Thant Attracted The Visiters Like Old Kasbah, Market, Waterfall And Spanish Mosque In The Top Which Offers A Unique Veiw Of The Medina. After Doing A Complet Visit And Having Your Lunch, We Will Drive Back To Fes By The Same Road, Around 7 Pm Will Reach Fes, Night In The Same Riad.",
+          "image": "/public/images/tours/Chefchaouen/image-1.png"
+        },
+        {
+          "day": 2,
+          "title": "Fez Sightseeing",
+          "description": "After Breakfast In Your Riad, You Will Start Exploring Fes The \"The Sprititual City Of Morocco\". You Will Spend The Whole Morning Exploring The Medina, Visiting Most Of The Sites With Cultural And Historical Interest – Including The Famous Al Karaouine Mosque And University (The Oldest In The World), The Tanneries And The Najjarine Fountain. After Lunch, We Will Drive Outside The Medina To See The Royal Palace Gate, Walk Through The Jewish Quarter \"The Mellah\", Then To Visit The Pottery Cooperative. Afternoon, We Will Drive To One Of The Fortresses To Experience An Amazing Panoramic View Of The Whole Medina Of Fes. Overnight Accommodation Will Be In An Authentic Riad In The Heart Of Old Medina.",
+          "image": "/public/images/tours/Fez/image-2.jpg"
+        },
+        {
+          "day": 3,
+          "title": "Fez – Ceder Forest – Midelt- Sahara",
+          "description": "After Breakfast, We Leave Fes And Driving Towards The Magical Middle Atlas Mountains. We Will Stop In The Charming Town Of Ifrane; Which Known As 'Switzerland Of Morocco', Becuase Of The Weather, Architecture And Historical Events. We Will Have A Short Break In Order To Walk Around Before We Continue To The Largest Cedar Forest Of Morocco Beside A Beautiful Town Of Azrou, Where You Will Have Chance To See Barbary Monkeys Living In A Wild Area. After That, We Keep Driving Between The Mountains Passing Through Many Berber Villages Such As; Timhdit And Zaida Till We Reach Midelt Where We Will Have Lunch, Then We Drive Further South Crossing The Mountains Of The High Atlas Till We Get To Errachidia Where The Valley Of Palm Trees Appears, These Create An Oasis Of Greenery Ideal For Growing All Kinds Of Fruit Trees And Vegetables Microclimate. After A While We Reach Erfoud; The Capital Of Fossils, Which Abound Testifying Past Covered By The Sea. From Here The Asphalt Disappears, Saharan Tracks Adobe Till We Reach The Village Of Merzouga; The Main Town In Sahara Desert. Overnight At The Hotel Closed To The Dunes With Dinner And Breakfast.",
+          "image": "/public/images/tours/Fez/midelt.jpeg"
+        },
+        {
+          "day": 4,
+          "title": "Sahara Sightseeing And Camel Trekking",
+          "description": "In This Interesting Day We Will Explore Erg Chebbi More Deeply. We Will Visit The Town Of Khamlia, We Discover Small Villages And Inhabited Houses In Unexpected Places Far From Civilization. In Addition To That We Will Visit Nomads Who Feel So Happy To Share Their Lifestyle With Their Visitors. Our Journey Continue To Discover An Old Mines Closed To The Borders Between Morocco And Algeria, Found By French Since Years Ago. Then We Go Back To The Town Where We Will Have A Typical Lunch Especially Of The Area Called \" Berber Pizza\". Afternoon You Have A Lifetime Experience Starts By Camel Trekking; Friendly Camels Guided By A Man With Experience Of Many Years Going Up And Down On Sand With Different Stops To Take Pictures Of Landscapes And Amazing Sunset, Around 1h30 On The Camel You Get To The Camp Located In The Heart Of Desert Where You Will Have Your Dinner And Enjoy The Berber Music Played By Locals Under A Starry Sky, You Will Be Welcomed With A Cup Of Mint Tea Then The Workers Will Show You Your Tent And Luggage. In The Morning You Will Wake Up Early In Order To Admire The Fascinating View Of Sunrise Before Having Breakfast And Shower. Then Back With Camels Till The Same Place Where You Had Departure The Day Before.",
+          "image": "/public/images/tours/Marrakech/camel_trek.jpeg"
+        },
+        {
+          "day": 5,
+          "title": "Merzouga – Todra Gorges – Dades Valley",
+          "description": "This Day You Will Find Your Driver Waiting For You Then Departure To Rissani; Old Sijilmassa Center Of Ancient Caravans From Toumboukto To Marrakech As Center Market Of Salt. After Walking Aroud The Biggest Market Of The Region We Continue Our Trip Through A Semi-Desert Landscape Till We Reach The Oasis Of Tinghir, One Of The Wonderful Places In Morocco .Then We Get To Todra Gorges Highest And Narrowest Gorges With 300m Which Considered An Attractive Place For Climbers. After Having Lunch, We Continue The Way Until Another Impressive Valley Of Dades Where We Will Spend The Night In A Hotel With Dinner And Breakfast.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 6,
+          "title": "Dades- City Of Roses- Ouarzazate– Ait Benhaddou- Marrakech",
+          "description": "After Breakfast We Take The Road Towards City Of Roses; The Area Where The Real Flower Grows Called Damskina, Short Break If You Are Interested To See How They Abstract Different Products From Roses In One Of The Cooperatives There. Then, We Drive Through A Famous Road Known As\" Road Of Thousand Kasbahs\", To Reach One Of The Most Important Cities Of Southern Morocco Ouarzazate, Known For Its Intense And Cinematic Activity, Having To His Credit Films Like Gladiator, Troy, The Mummy Etc Made In A Big Studio Called Atlas Corporation Studios, You Can Have A Visit After We Drive To Ait Ben Haddou Kasbah, The Queen Of Kasbahs (Unesco World Heritage) And Walk Around. After Lunch We Continue Our Way Through The Port Of Highest Pass In Morocco – Tzin Tichca (2,260 M), Where We Will Have Breaks For Panoramic Views Before We Reach The Imperial City Of Marrakech. Overnight At Riad.",
+          "image": "/public/images/tours/Marrakech/ouarzazate.jpeg"
+        },
+        {
+          "day": 7,
+          "title": "Marrakech City Tour",
+          "description": "After Breakfast, We Spend Full Day Tour To Discover Marrakech With A Local Guide. Called \"The Red City\" Because Of The Color Of Its Walls And Filled With Gardens, Watered By Underground Wells (Khettaras), Which Were Built By The Almoravids And Saharan Nomads In The Eleventh Century. In This Day We Will Visit Menara, The Saadian Tombs, The Bahia Palace, The Koutoubia, Majorelle Gardens And Souks, These Are Some Of The Unavoidable Visits. A Unique Experience Will Be To Discover The Square Of\" Djemaa El Fna\" Where Life And Activity Of The City Is Concentrated: Dancers, Storytellers, Jugglers, Artisans, Merchants And Snake Charmers. While You Discover These Important Places You Will Have Free Time To Walk By Yourselves. Overnight In The Same Riad.",
+          "image": "/public/images/tours/Marrakech/image-3.jpg"
+        },
+        {
+          "day": 8,
+          "title": "Optional Day",
+          "description": "On your 9-day Sahara Desert tour, you have the opportunity to choose from some of the most famous day trips from Marrakech, or simply unwind and enjoy the vibrant atmosphere of the city. You can opt for: Ouzoud Waterfalls: Explore the stunning Ouzoud Waterfalls, one of Morocco's most beautiful natural attractions. Located in the Atlas Mountains, this picturesque site offers breathtaking views and opportunities to hike, swim, and spot wild monkeys. Essaouira: Take a day trip to the coastal town of Essaouira, known for its charming medina, UNESCO-listed historic sites, and beautiful beaches. This relaxing escape offers a mix of culture, history, and stunning ocean views. Ourika Valley: Visit the Ourika Valley, a lush oasis nestled in the Atlas Mountains. Known for its scenic beauty, traditional Berber villages, and waterfalls, it's the perfect getaway for nature lovers and those seeking adventure. Alternatively, if you prefer to relax, you can spend the day enjoying the rich cultural experiences and vibrant atmosphere of Marrakech, from its bustling souks to its tranquil gardens.",
+          "image": "/public/images/tours/Marrakech/image-4.jpg"
+        },
+
+        {
+          "day": 9,
+          "title": "Marrakech – Airport",
+          "description": "Free Time Until Your Flight Departure Then We Drive To Airport And This Will Be The End Of The Tour",
+          "image": "/public/images/tours/Marrakech/aeroport.jpeg"
+        }
+      ]
+    },
+    "tangier-marrakech-4days": {
+      "title": "4 Days Desert Tour From Tangier",
+      "subtitle": "Tangier to Marrakech Adventure",
+      "duration": "4 Days",
+      "startFrom": "Tangier",
+      "availability": "Everyday",
+      "overview": "Experience an unforgettable 4-day Morocco desert tour from Tangier to Marrakech, exploring the blue city of Chefchaouen, the historic streets of Fes, and the breathtaking Sahara Desert. Ride camels across the Erg Chebbi dunes, spend a magical night in a desert camp, and journey through the Todra Gorge and Dades Valley. Discover the famous Ait Ben Haddou Kasbah, a UNESCO World Heritage site, before crossing the High Atlas Mountains via the Tizi n'Tichka Pass to reach Marrakech. This Tangier to Marrakech desert tour blends adventure, culture, and breathtaking landscapes—perfect for travelers looking to explore the real Morocco.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "3 Nights in a hotel & Camp.",
+        "Camel ride in the Sahara desert ( a Camel Per person).",
+        "Dinners and Breakfasts.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Tangier – Chefchaouen – Fes",
+          "description": "During the first day of your trip we will meet you where you are and drive through the Rif mountains passing by Tetaoun city to enjoy the views of the wonderful mountains until we get into Chefchaouaen which considered one of the stunning villages in the feet of Rif mountains. Chefchaouen medina had a Spanish-style square surrounded by many funky arts and crafts stores, roof-top restaurants and cafes, where you will have lunch before we continue our way to Fes where we will spend the night in Moroccan riad.",
+          "image": "/public/images/tours/Chefchaouen/image-1.png"
+        },
+        {
+          "day": 2,
+          "title": "Fez – Ifrane – Erfoud – Sahara Desert",
+          "description": "After breakfast We will drive south to Ifrane and Azrou through the Middle Atlas mountains. On the way we will stop at the cedar forests to see the Barbarian Monkeys in their natural habitat. Travelling through the Tizi Ntalghamt pass and along the magnificent Ziz Gorges carved through volcanic rock, you'll see views of the Middle-Atlas plateau and the scenery changing to reveal hints of the desert as you approach the city of Errachidia. After lunch we'll continue our journey through the Ziz Valley to Erfoud till we get to Sahara Desert.Then we'll take a camel ride to a Berber camp in the middle of the Erg Chebbi Sand Dunes which are the highest sand dunes in North Africa. The camel trek takes about 1hr 30 min to the camp with tents for your night in the desert. The tents are well equipped with mattresses, blankets, and cushions. After dinner we will gather around the fire and enjoy the sound of traditional Berber drums under a starry sky.",
+          "image": "/public/images/tours/Marrakech/ifrane.jpeg"
+        },
+        {
+          "day": 3,
+          "title": "Sahara – Todra Gorge – Dades Valley",
+          "description": "The camel-man will wake you up early to enjoy a magnificent sunrise on the dunes then take a camel ride back to the hotel. After freshening up and breakfast we'll leave for Tinghir and the Todra Gorges finally, arrive in the Dades Valley where we will have dinner and spend the night.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 4,
+          "title": "Dades Valley – Skoura – Ouarzazate – Ait Ben Haddou – Marrakech",
+          "description": "After breakfast we'll drive through the Dades Valley towards Kalaat Mgouna and Ouarzazate. The route through the Dades Valley, the way of the thousand Kasbahs, provides numerous photo opportunities. We'll visit the Roses valley and Skoura village, then continue to Ouarzazat( the Hollywood of Africa ). Lunch is at the famous Ait Ben Haddou kasbah, the largest Kasbah in Morocco. After discovering this UNESCO World Heritage site, our journey will go on through the majestic Tizi nTichka pass, reaching an altitude of (2260 m), over the High Atlas Mountains. We will stop to enjoy the impressive views, after we arrive Marrakech late afternoon and your 4 Days Tour Tangier To Marrakech Via Sahara Desert ends.",
+          "image": "/public/images/tours/Marrakech/ouarzazate.jpeg"
+        }
+      ]
+    },
+    "tangier-marrakech-8days": {
+      "title": "8 Days Desert Tour From Tangier",
+      "subtitle": "Complete Morocco Journey",
+      "duration": "8 Days",
+      "startFrom": "Tangier",
+      "availability": "Everyday",
+      "overview": "Experience an unforgettable 8-day Morocco tour from Tangier to Marrakech, exploring stunning landscapes, imperial cities, and the breathtaking Sahara Desert. Start in the blue city of Chefchaouen, wander through the Roman ruins of Volubilis, and discover the rich history of Fes. Journey through the Atlas Mountains to the magical Sahara Desert, where you'll ride camels and spend a night under the stars in a desert camp. Explore the dramatic Todra Gorges, the cinematic city of Ouarzazate, and the famous Ait Ben Haddou Kasbah before crossing the Tizi n'Tichka Pass to reach Marrakech. End your journey with a guided tour of Marrakech's vibrant medina, historical landmarks, and bustling souks. This well-planned Morocco itinerary is perfect for travelers seeking adventure, culture, and unforgettable experiences.",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "7 Nights in a hotel & Camp.",
+        "Camel ride in the Sahara desert ( a Camel Per person).",
+        "Dinners and Breakfasts.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Tangier – Chefchaouen",
+          "description": "Within The First Day Of Your 8 Days Tour From Tangier To Marrakech, We Will Meet You Where You Are And Drive Through The Rif Mountains Passing Through The City Of Tetoun To Enjoy The Views Of The Beautiful Mountains Until We Reach Chefchaouen, One Of The Impressive Villages At The Foot Of Rif Mountains. The Medina Of Chefchaouen Has A Spanish-Style Square Surrounded By Many Art And Craft Shops, Restaurants And Cafes On The Rooftop Where You Will Have Lunch. Then, Free Time To Explore This Interesting Village With Its White And Blue Color. The Night In A Moroccan Riad.",
+          "image": "/public/images/tours/Chefchaouen/image-1.png"
+        },
+        {
+          "day": 2,
+          "title": "Chefchaouen – Volubilis – Meknes – Fes",
+          "description": "After Your Breakfast In The Riad Our Trip Will Start Towards Volubilis Crossing Via Wazan And Other Villages Of Rif, In Volubilis We Will Discover The Roman Ruins With Its Historical Archaeological Site, After The Visit Of The Ruins We Will Take The Road To The City Of Meknes, Where We Will Have A Break For Lunch And Hang Around The Huge Historical Walls Of The Medina, Bab Mansour And Enjoy A Visit To The Sanctuary Of Moulay Ismail. After The Visit Of Meknes We Will Drive Directly To Fez Where We Will Spend The Night In Riad.",
+          "image": "/public/images/tours/Fez/image-2.jpg"
+        },
+        {
+          "day": 3,
+          "title": "Discovering Fes",
+          "description": "After Breakfast In Your Riad, We Will Begin To Discover The Oldest City In Morocco, Walking In Its Alleys. Our Visit Contains The Door Of The Royal Palace, The Jewish Headquarters, The First Mellah Built In Morocco During The Sixteenth Century. We Will Make Sure You Visit All Sites With Cultural And Historical Interest, Including The Famous Al Qaraouine University, The Oldest In The Region, The Tanneries, The Attarine Museum And The Mulay Idriss Mausoleum. After Lunch, You Can Enjoy A Wonderful Panoramic View Of The Entire Medina Of Fez.",
+          "image": "/public/images/tours/Fez/image-3.jpg"
+        },
+        {
+          "day": 4,
+          "title": "Fes – Ifrane – Midelt – Sahara Desert",
+          "description": "After Breakfast We Will Travel To Sahara Via Errachidia And Erfoud Through The Attractive Tiz Ntalghamt Pass And The Ziz Valley, Taking In Views Of The High Atlas Plateau, While Heading Landscape Changes To Reveal Desert Tracks As You Approach The Town Of Errachidia. Afterwards, You Will Travel Through The Exuberant Ziz Valley, Stopping To Enjoy Panoramic Views Along. While We Get To Sahara Desert Be Ready To Have A Lifetime Experience On Camel Trekking Between Sahara Dunes, Going Up And Down And Enjoying Sunset Till We Reach The Camp. Dinner Will Be Served Here With Berber Music Under A Starry Sky.",
+          "image": "/public/images/tours/Marrakech/ifrane.jpeg"
+        },
+        {
+          "day": 5,
+          "title": "Sahara – Todra Gorges – Dades Valley",
+          "description": "We Will Get Up Early To See The Spectacular Sunrise Over The Dunes Of The Sahara Before Making Our Way Back By Camels To Our Guest House For Breakfast And Take A Shower. Then, We Will Go Through The Mountains Of Saghro Till We Get Todra Gorges Which Considered The Highest And Narrowest In Morocco. Free Walking Inside In Short Time Through The Gorges Before We Drive To Dades Valley Where We Will Have The Night With Dinner And Breakfast.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 6,
+          "title": "Dades Valley – Ouarzazate – Kasbah Ait Ben Haddou – Marrakech",
+          "description": "After Breakfast, We Will Leave Dades Valley Towards Kalaa M'gouna And Ouarzazate. The Route Through The Dades Valley Is The Way To The Thousand Kasbahs – Providing Numerous Opportunities To Take Some Of Your Best Photographic Shots Of The Trip. We Will Stop At Kasbah Ait Ben Haddou, The Largest Kasbah In Morocco, Used To Be One Of Main Stops Of Caravan Commercials During Along Journey From The Tomboukto To Marrakech. Now, The Kasbah Is One Of Unesco's Heritage Sites. After Walking Around The Kasbah We Cross High Atlas Mountains Full Of Panoramic Views And Attractive Berber Villages Along The Way Until We Reach Marrakech. Night In A Riad In The Medina.",
+          "image": "/public/images/tours/Marrakech/ouarzazate.jpeg"
+        },
+        {
+          "day": 7,
+          "title": "Visit The City Of Marrakech",
+          "description": "After Breakfast In The Riad, You Can Start Discovering Marrakech \"The Red City Of Morocco\". We Will Make Sure That You See The Most Important Sites With Historical And Cultural Interest, Such As The Majorelle Gardens, The Koutoubia Tower, The Saadian Tombs, The Bahia Palace. After Lunch At A Restaurant Near The Square, You Can Walk Through The Souks And See Hundreds Of Crafts. In The Afternoon You Will Have Free Time To Visit The Other Parts Of The City.",
+          "image": "/public/images/tours/Marrakech/marrakech-whystart.jpg"
+        },
+        {
+          "day": 8,
+          "title": "Marrakech – Airport",
+          "description": "Airport Transfer.",
+          "image": "/public/images/tours/Marrakech/aeroport.jpeg"
+        }
+      ]
+    },
+    "tangier-marrakech-12days": {
+      "title": "12 Days Morocco Tour From Tangier",
+      "subtitle": "Ultimate Morocco Experience",
+      "duration": "12 Days",
+      "startFrom": "Tangier",
+      "availability": "Everyday",
+      "overview": "Experience the best of Morocco with our 12-day private tour from Tangier to Marrakech, blending cultural exploration, desert adventures, and historic sites. Your journey begins in the picturesque blue city of Chefchaouen, nestled in the Rif Mountains, before heading to the ancient Roman ruins of Volubilis and the imperial city of Meknes. Discover the spiritual heart of Morocco in Fes, known for its UNESCO-listed medina and ancient Al Karaouine University. Explore the Sahara Desert with an unforgettable camel trek, and immerse yourself in Berber culture. Continue your adventure through the stunning Todra Gorges, the Dades Valley, and Ouarzazate, the Hollywood of Africa, before reaching Marrakech, where the iconic Jemaa el-Fnaa square and majestic Bahia Palace await. Optionally, take a day trip to Essaouira, the Jewel of the Atlantic. This Morocco desert tour offers a perfect mix of history, culture, and adventure!",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "11 Nights in a hotel & Camp.",
+        "Camel ride in the Sahara desert ( a Camel Per person).",
+        "Dinners and Breakfasts.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Tangier To Chefchaouen",
+          "description": "Within This Day We Will Drive Between A Series Of Mountains Called Rif Mountains With Its Green Land And Amazing Villages Till We Get To Chefchaouen, The Blue Pearl Of Morocco. Chefchaouen Medina Has A Spanish-Style Square Surrounded By Many Funky Arts And Crafts Stores, Roof-Top Restaurants And Cafes Where You Will Spend Your Night In A Nice Place To Enjoy The Breeze. The Night At A Typical Riad.",
+          "image": "/public/images/tours/Tangier/image-1.jpg"
+        },
+        {
+          "day": 2,
+          "title": "Day To Explore Chefchaouen",
+          "description": "You Will Have A Free Day To Promenade Around And To Explore The Highlights Of The Blue City. Chefchaouen Or Chaouen Is A City In The North-West Of Morocco. It Is The Main Town Of The Province Of The Same Name, And Stands Out For Its Buildings In Blue Tones. Chefchaouen Or Chaouen, As It Is Often Called By The Moroccans, Is A Popular Tourist Destination Due To Its Proximity To Tangier And The Spanish Enclave Of Ceuta. The Name Refers To The Shape Of The Mountain Tops Above The City, Which Resemble The Two Horns Of A Goat. \"Chef Chaouen\" Derives From The Berber Word For Horns, Ichawen. Overnight At The Same Riad.",
+          "image": "/public/images/tours/Chefchaouen/image-1.png"
+        },
+        {
+          "day": 3,
+          "title": "Chefchaouen – Volubilis – Meknes – Fes",
+          "description": "In Our Third Day Of Our 10 Days Tour From Tangier To Marrakech, We Will Leave Blue City And Drive Towards Volubilis Via Ouazzane And Other Villages, In Volubilis We Will Discover The Roman Ruins And Learn About The Archaeological Site Of Morocco, After The Visit Of The Ruins We Will Shift Our Way To Meknes City Which Found In The 17 Century. After Lunch We Hang Around The Historical Walls Of The Medina By Visiting Bab Mansour And Moulay Ismail's Shrine. After The Visit Of Meknes We Will Drive Directly To Fez, Night Will Be At A Beautiful Riad.",
+          "image": "/public/images/tours/Fez/image-3.jpg"
+        },
+        {
+          "day": 4,
+          "title": "Fes Sightseeing",
+          "description": "After Breakfast In Your Riad, You Will Start Exploring Fes \"The Spiritual City Of Morocco\" With A Local Guide. You Will Spend The Whole Morning Exploring The Medina, Visiting Most Of The Sites With Cultural And Historical Interest – Including The Famous Al Karaouine Mosque And University (The Oldest In The World), The Tanneries And The Najjarine Fountain. After Lunch, We Will Drive Outside The Medina To See The Royal Palace Gate, Walk Through The Jewish Quarter \"The Mellah\", Then To Visit The Pottery Cooperative. Afternoon, We Will Drive To One Of The Fortresses To Experience An Amazing Panoramic View Of The Whole Medina Of Fes. Overnight At The Same Riad.",
+          "image": "/public/images/tours/Fez/image-4.jpg"
+        },
+        {
+          "day": 5,
+          "title": "Fes – Ifrane – Midelt – Ziz Valley – Erfoud – Sahara Desert",
+          "description": "After Breakfast, We Drive To Merzouga Via Errachidia And Erfoud. Tizi N Talghamt Pass And The Ziz Gorges With The View Of The High Atlas Plateau, You'll See How The Scenery Changes To Reveal Hints Of The Desert As You Approach The City Of Errachidia. Afterwards, We Will Travel Along Ziz Valley Till We Reach Erfoud (Capital Of Fossils). Arrive At Merzouga On The Afternoon. And You'll Be Greeted With A Glass Of Tea When You Get Into Your Hotel.",
+          "image": "/public/images/tours/Marrakech/ifrane.jpeg"
+        },
+        {
+          "day": 6,
+          "title": "Discover Sahara Desert – Camel Trekking",
+          "description": "After Breakfast In Your Riad, You Can Take A Little Exploration Of The Local Area Before The Start Of Your Camel Ride; You Will Visit The Gnawa People – Originally From Mali, Senegal And Sudan – In Their Village Khamlia, Where You Will Learn About Their Music And Their Lifestyle. Today We Will Have A Traditional Berber Meal. You Will Have The Option To Visit The City Of Rissani – The Foundation Of The Alawi Dynasty – The Current Ruling Royal Family In Morocco. Rissani Is Surrounded By Around 300 Ksar And Has A Big Souk, Held Three Times A Week. Once Called Sijilmassa, This Was The Meeting Place For The Salt Caravans, Coming From Timbuktu In Mali, You'll Walk Through Its Famous Souk Where The Locals Of The Whole Area Come For Shopping. Then We Drive Back To The Village Of Merzouga From Where Camel Trekking Starts Guided By An Experienced Camel-Man To Explore What Is Hidden In The Middle Of The Highest Sand Dunes Till You Reach The Camp By Having Breaks For Taking Pictures And Enjoying Sahara Desert Sunset. Dinner Will Be Served At The Camp, Where You Will Spend The Night With A Spectacular Time By Drums Music Performance Played By Locals Under A Starry Sky.",
+          "image": "/public/images/tours/Marrakech/camel_trek.jpeg"
+        },
+        {
+          "day": 7,
+          "title": "Sahara Desert – Todra Gorges – Dades Valley",
+          "description": "In This Day We Will Get To Know Merzouga Desert Sunrise Over The Dunes Of The Sahara. After Having Breakfast And Shower We Make Our Way Back Either By Camel Or 4×4 Option. Then We'll Drive Through Erfoud And Different Berber Villages Till We Get Todra Gorges, The Highest And Narrowest Gorges In Morocco, Where We Will Have Time For Walking And Enjoy Rock Formation. After, Having Lunch We Drive To Dades Valley Where We Spend The Night.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 8,
+          "title": "Dades Valley – Boutaghrar – Skoura – Ouarzazate",
+          "description": "After Breakfast, We'll Drive Towards Kalaa M'gouna And Ouarzazate. The Route Through Dades Valley Is Named The Way Of Thousand Kasbahs – Providing Numerous Opportunities To Take Some Of Your Best Photographic Shots Of The Trip. Today We Will Have The Opportunity To Visit A Nomad Family In The Mountain Living In Caves, To Discover Another Style Of Life Different From The Other One In The Sahara Desert. We Will Stop At Kalaa Mgouna, \"The Rose City\", To Purchase The Rosewater, Which Will Make Your Linen Smell Good A Long Time After Your Trip Is Over. Continuing On To Skoura You'll Visit The Kasbah Ameridil, A Well-Preserved Kasbah In This Area. Lunch Will Be In A Traditional Moroccan Restaurant Overlooking The Beautiful Valley, To Ouarzazate, \"The Hollywood Of Africa\", Whose Geography And Beautiful Landscapes Have Attracted Many World Class Movie Producers. Here You May Choose To Visit The Studios, Containing Props Used In Movies Such As The Mummy, Gladiator And The Last Temptation Of Christ. Overnight Will Be At A Hotel.",
+          "image": "/public/images/tours/Marrakech/ouarzazate.jpeg"
+        },
+        {
+          "day": 9,
+          "title": "Ouarzazate – Ait Ben Haddou Kasbah – Marrakech",
+          "description": "After Breakfast In Your Riad, We'll Head To Marrakech, Visiting Ait Ben Haddou Kasbah, Which Is The Largest Kasbah In Morocco, Built By T-Hami El Glaoui, One Of The Last Berber Chieftains During The Beginning Of The 19th Century, It Used To Be One Of His Stops During His Long Travel From The Sahara To Marrakech. Now It Is One Of Unesco's World Heritage Sites. Your Journey Will Continue Through The Majestic Tizi N'tichka Pass (2260 M) Over The High Atlas Mountains To Marrakech. In Our Way You Will Have Chance To Explore The Way And The Process Of Making Argan Oil Which Existed Only In Morocco By The Berber Women In Their Cooperatives After We Get To Marrakech And Spend The Night At A Hotel\\Riad.",
+          "image": "/public/images/tours/Marrakech/kasbah.jpg"
+        },
+        {
+          "day": 10,
+          "title": "Marrakech City Tour",
+          "description": "After Breakfast We Spend Full Day Tour With A Local Guide To Discover Marrakech. The Stories Tell That City Was Inhabited By A Tribe On The Other Side Of The Atlas, With Large Supplies Of Dates And Bones Born A Palm. Called \" The Red City \" Because Of The Color Of Its Walls And Filled With Gardens, Watered By Underground Wells (Khettarat), Which Were Built By The Almoravids And Saharan Nomads In The Eleventh Century. We Will Visit Menara, The Kasbah, The Saadian Tombs, The Bahia Palace, The Koutoubia, Majorelle Gardens And Souks Are Some Of The Unavoidable Visits. A Unique Experience Will Be To Discover The Square \" Djemaa El Fna \" Where Life And Activity Of The City Is Concentrated: Dancers, Storytellers, Jugglers, Artisans, Merchants, And Snake Charmers. Overnight At The Same Hotel\\Riad.",
+          "image": "/public/images/tours/Marrakech/image-2.jpg"
+        },
+        {
+          "day": 11,
+          "title": "Optional Day Trip To Essaouira",
+          "description": "After Breakfast In Your Riad, We Will Travel To The Coastal City Of Essaouira. Getting There After 2h30 And Start Exploring The City. You'll Visit The Skala Fortress; See Thuya Wood Carved By Artisans; Walk Through The Alleys Of The Medina And View Of Handicrafts. This \"City Of The Wind\" Attracts Surfers From All Over The World. Essaouira Knew Many Civilizations – Including The Portuguese Occupation, Which Affects Much Of Its Architecture – However, It Remains A Small Village With Much History. Because Of Its Size And Its Characteristic Blue Doors And Washed Walls, It Is Also Considered As Morocco's \"Jewel Of The Atlantic\". Lunch Will Be Cooked With A Moroccan Way – Fresh Fish. In The Afternoon You Will Travel Back To Marrakech. Overnight At Your Riad.",
+          "image": "/public/images/tours/Essaouira/image-1.png"
+        },
+        {
+          "day": 12,
+          "title": "Marrakech – Airport",
+          "description": "Transfer To The Airport.",
+          "image": "/public/images/tours/Marrakech/aeroport.jpeg"
+        }
+      ]
+    },
+    "casablanca-fes-3days": {
+      "title": "3 Days Tour From Casablanca",
+      "subtitle": "Casablanca to Fes Journey",
+      "duration": "3 Days",
+      "startFrom": "Casablanca",
+      "availability": "Everyday",
+      "overview": "Embark on a 3-day tour from Casablanca to Fes, exploring Morocco’s rich culture and history. Visit Rabat, Meknes, and the ancient ruins of Volubilis, and discover the wonders of Fes, including its medina, Royal Palace, and the world’s oldest university. Enjoy scenic stops in Ifrane, the Cedar Forest, and Azrou. Choose from tailored itineraries for a truly unique experience!",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Comfortable transport with air conditioned 4×4 vehicle.",
+        "Experienced English speaking driver / guide.",
+        "Accommodation in hotel / riad.",
+        "Drop you off to your accommodation."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Casablanca- Rabat- Meknes( Bab Mansour And Volibilus) -Fes",
+          "description": "We Will Meet You In The Airport Or In Your Hotel In Casablanca. Then We Drive To Fes Passing By Rabat And Exploring Its Main Sceneries, After That We Drive To Explore Meknes. We Continue Our Way To Fes Where You'll Arrive In The Evening And Here You'll Overnight At Riad.",
+          "image": "/public/images/tours/Rabat/3.jpg"
+        },
+        {
+          "day": 2,
+          "title": "Discover The Most Important Places Of Fes",
+          "description": "At The Morning You Will Visit The Medina (The Outdated City) And Its Side Streets.Also You Will Find Out The Jewish Quarter (The Mellah) And The Royal Palace (Yard), Which Is The Biggest One In The Country. In Addition To That, You Will See The Quaraouine Mosque Which Considered The First University In The World. After Lunch, In A Typical Moroccan Restaurant In The Medina,You'llhave Unforgettablepanoramic View Of The City. Overnight Will Be At The Same Riad.",
+          "image": "/public/images/tours/Fez/image-2.jpg"
+        },
+        {
+          "day": 3,
+          "title": "Fes – Ifrane – Ceder Forest – Azrou – Fes",
+          "description": "In This Day We Drive From Fes Towards Ifrane Which Seems As ( Swaziland Of Morocco), Then Passed By The Ceder Forest; Which Considered As The Largest Ceder Forest In The North Africa. Walking For A Moments In Order To See The Beauty Of Nature(Where You Will See Also A Barbarian Apes). After Lunch In One Of The Local Places In Azrou City. Then We Return Back To Fes Where Our Tour Ended.",
+          "image": "/public/images/tours/Marrakech/ifrane.jpeg"
+        }
+      ]
+    },
+    "casablanca-marrakech-7days": {
+      "title": "7 Days Morocco Tour from Casablanca",
+      "subtitle": "Casablanca to Marrakech Adventure",
+      "duration": "7 Days",
+      "startFrom": "Casablanca",
+      "availability": "Everyday",
+      "overview": "Discover the beauty and diversity of Morocco on this 7-day journey from Casablanca to Marrakech. Explore Chefchaouen’s blue streets, the ancient Roman ruins of Volubilis, and the historical treasures of Fes. Journey through the Middle Atlas to the mesmerizing Merzouga Desert for a camel trek and a night under the stars. Visit the dramatic Todra Gorge, the stunning Dades Valley, and the iconic Ait Ben Haddou Kasbah. End your adventure by crossing the High Atlas Mountains to vibrant Marrakech. A perfect blend of culture, history, and breathtaking landscapes awaits!",
+      "includes": [
+        "Pick you up from your hotel.",
+        "Tour in 4×4, vehicle or minibus (with air-condition).",
+        "Experienced English speaking driver / guide.",
+        "Hotel overnight stays.",
+        "Camel ride(1 camel for each person) and 1 night in desert camp."
+      ],
+      "notIncluded": ["Drinks.", "Lunches.", "Visits."],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Casablanca – Chefchaouen",
+          "description": "In this day we will meet you where you are either at the airport or hotel and drive to chefchaouen after we visit most attractions of casablanca. On the way we will make short stops to take some unique pictures of divers landscapes and different small villages till we get to the blue city. Overnight at a fantastic riad in the medina.",
+          "image": "/public/images/tours/Chefchaouen/image-1.png"
+        },
+        {
+          "day": 2,
+          "title": "Day to explore Chefchaouen",
+          "description": "You will have a free day to promenade around and to explore the highlights of the blue city. Overnight at the same riad.",
+          "image": "/public/images/tours/Chefchaouen/1.jpeg"
+        },
+        {
+          "day": 3,
+          "title": "Chefchaouen – Volubilis – Meknes – Fes",
+          "description": "When you had breakfast in your riad, you will start travelling to fes via ouazzan and the roman site of volubilis. After a few of hours of driving, you will get to volubilis, the well preserved roman empire dating to 225 bc, where you will see the most attractive mosaics in morocco dating back to 3rd century. After that we travel to meknes, the ismaili capital. In meknes we see the fascinating gate bab mansour built by the sultan my ismail; the granary and the sahrij souani, used for irrigation and plantation. Then we continue via fes. Overnight at a fancy riad in the medina.",
+          "image": "/public/images/tours/Fez/image-3.jpg"
+        },
+        {
+          "day": 4,
+          "title": "Discovering Fes",
+          "description": "After having breakfast in your riad, you will start exploring fes the \"the spiritual city of morocco\". You will spend the whole morning exploring the medina, visiting most of the sites with cultural and historical interest – including the famous al karaouine mosque and university (the oldest in the world), the tanneries and the najjarine fountain. After lunch, we will drive outside the medina to see the royal palace gate, walk through the jewish quarter \"the mellah\", and then visit the pottery cooperative. In the afternoon, we will drive to one of the fortresses to experience an amazing panoramic view of the whole medina of fes. Overnight accommodation at the same riad.",
+          "image": "/public/images/tours/Fez/image-4.jpg"
+        },
+        {
+          "day": 5,
+          "title": "Fes – Ifrane – Azrou – Midelt – Erfoud – Merzouga Desert",
+          "description": "After breakfast, we will start travelling south to merzouga desert via midelt and errachidia. Your first stop will be at ifrane city, referred to as \"the switzerland of morocco\", and then to merzouga via midlet and the ziz valley. During this journey you'll experience glimpses of the middle atlas and higher atlas mountains. Stopping at the famous cedar forest – the largest one in morocco – where you will have the chance to see the barbarian monkys. On the way you'll notice how the scenery changes to reveal hints of the desert as you approach the er rachidia city. After lunch in midelt, trip going on along the spectacular ziz valley, stopping for panoramic views along the way. We will drive through berber villages to erfoud then to merzouga at the end of the day, you'll ride your camel to see the sunset in the middle of the highest sand dunes in morocco and spend the night there. Overnight at desert camp where you will have your dinner and sleep in a tent.( the best chance to see the moon and shining stars ), with traditional berber music played by locals.",
+          "image": "/public/images/tours/Fez/azrou.jpeg"
+        },
+        {
+          "day": 6,
+          "title": "Sahara Desert – Todra Gorge – Dades Valley",
+          "description": "Your camel guide will wake you up early in the morning to watch what well may be the best sunrise in your life. Afterwards, you'll have a camel-trek back to your riad appreciating the unique beauty of the spectacular erg chebbi dunes – changing with the light as the day progresses. After breakfast and hot shower, we leave for tinghir and todra gorges \"the highest, narrowest gorges in morocco\". Here you'll have the opportunity to hike along it's valley. We'll drive through the dades valley, where you'll see the majestic sand castles and the amazing rock formations known as \"monkey toes\". Overnight will be in a riad or a hotel in the heart of the gorge.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 7,
+          "title": "Dades Valley – Ait Ben Haddou Kasbah – Marrakech",
+          "description": "After breakfast, we'll drive through the dades valley towards kalaat mgouna and ouarzazate. The route through dades valley is named the way of thousand kasbahs – providing numerous opportunities to take some of your best photographic shots of the trip. We'll stop at kalaat mgouna, \"the rose city\", to purchase the rosewater, which will make your linen smell good a long time.then continue to ouarzazate, \"the hollywood of africa\". Lunch will be at the famous ait ben haddou kasbah, the largest kasbah in morocco. It is recognized by unesco as a world patrimony. It is famous as a backdrop for many films such as;'lawrence of arabia', 'gladiator'. Our journey will continue through the majestic tizi 'n' tichka pass (2260 m) over the high atlas mountains where you can stop to explore the process of making the argan oil at the women's cooperatives before arriving to marrakech, where the tour ends",
+          "image": "/public/images/tours/Marrakech/kasbah.jpg"
+        }
+      ]
+    },
+    "casablanca-marrakech-15days": {
+      "title": "15 Day Morocco Trip from Casablanca",
+      "subtitle": "Complete Morocco Discovery",
+      "duration": "15 Days",
+      "startFrom": "Casablanca",
+      "availability": "Everyday",
+      "overview": "Morocco is considered as the best destination so far around the world among the travelers, and that does not come in random as is a home of diversity, hospitality and safety. If you are looking to live and to discover all the aspects we have mentioned above that Morocco known by, we encourage you to book this 15 day tour starts from Casablanca and ends in Marrakech which covers the most visited places around the Kingdom; Rabat, Assilah, Tangier, Chefchaouen, Fes, Sahara Desert, Ait ben Hadou, Agadir, Essaouira, Marrakech and too many other interesting areas.",
+      "includes": [
+        "Transportation in Ac and comfortable vehicle.",
+        "Fuel, tolls and any associated expenses.",
+        "Pick up from your hotel, Riad, airport or wherever you want.",
+        "English, French or Spanish driver / guide.",
+        "9 nights in BB (bed and breakfast) in Hotel/ Riad in Casablanca, Rabat, Tangier, Chefchaouen, Fes, Essaouira and Marrakech.",
+        "Night with half boarding (diner, bed and breakfast) in hotel/ Riad.",
+        "Night with half boarding (diner, bed and breakfast) in desert camp."
+      ],
+      "notIncluded": [
+        "Lunches during the tour.",
+        "Drinks during the trip.",
+        "Diners in Casablanca, Rabat, Tangier, Chefchaouen, Fes, Essaouira and Marrakech.",
+        "Entrance fees to touristic Monuments; Kasbahs, Museums…",
+        "Flight tickets.",
+        "Anything not mentioned in the program."
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Casablanca",
+          "description": "Welcome to Morocco! Upon arrival at Casablanca airport, your dedicated driver will greet you and transfer you to your accommodation.",
+          "image": "/public/images/tours/Casablanca/casablanca-hero.jpg"
+        },
+        {
+          "day": 2,
+          "title": "Casablanca – Rabat",
+          "description": "After breakfast, visit the iconic Hassan II Mosque, a masterpiece of Moroccan architecture and one of Casablanca's top landmarks. Then, head to Rabat, the imperial city and administrative capital of Morocco. Explore the Mechouar surrounding the Royal Palace, the historic Oudayas Kasbah, and the stunning Mausoleum of Mohammed V and Hassan II. Overnight stay in Rabat at a charming hotel or riad.",
+          "image": "/public/images/tours/Rabat/3.jpg"
+        },
+        {
+          "day": 3,
+          "title": "Rabat – Asilah – Tangier",
+          "description": "After breakfast, travel to Tangier with a stop in the serene beach town of Asilah. Explore its artistic streets and coastline before continuing to Tangier. Discover the fascinating Hercules Caves, Cape Spartel, and the vibrant city of Tangier. Overnight stay in Tangier.",
+          "image": "/public/images/tours/Tangier/image-3.jpg"
+        },
+        {
+          "day": 4,
+          "title": "Tangier – Rif Mountains – Chefchaouen",
+          "description": "Begin the day with a visit to the Hercules Caves and enjoy the captivating views of Tangier. Continue through the Rif Mountains to the charming blue city of Chefchaouen. Admire the unique architecture, whitewashed houses, and lush surroundings of this picturesque Berber town. Overnight stay in a riad or guesthouse in Chefchaouen.",
+          "image": "/public/images/tours/Chefchaouen/1.jpeg"
+        },
+        {
+          "day": 5,
+          "title": "Chefchaouen – Volubilis – Meknes – Fes",
+          "description": "After breakfast, depart for Meknes, stopping first to explore the Roman ruins of Volubilis, a UNESCO World Heritage site. Continue to Meknes to visit the old medina, the Mausoleum of Moulay Ismail, the grand Bab Mansour Gate, and Lahdim Square. End your journey in Fes with an overnight stay in a riad.",
+          "image": "/public/images/tours/Chefchaouen/image-1.png"
+        },
+        {
+          "day": 6,
+          "title": "Guided Tour of Fes",
+          "description": "Spend the day exploring Fes, the oldest imperial city in Morocco. Visit the UNESCO-listed old medina, famous for its labyrinth of narrow streets, colorful souks, and historical landmarks. Highlights include the Bou Inania Madrasa, Al-Attarine Madrasa, Ennajarine Fountain, the Mausoleum of Moulay Idriss, and Al-Qarawiyyine University. Conclude with a panoramic view of the medina before visiting the modern district of Fes El-Jdid. Overnight in Fes.",
+          "image": "/public/images/tours/Fez/image-2.jpg"
+        },
+        {
+          "day": 7,
+          "title": "Fes – Ifrane – Middle Atlas – Midelt",
+          "description": "Journey through the Middle Atlas mountains, passing lush cedar forests and picturesque towns. Stop in Ifrane, known as \"Morocco's Switzerland,\" and Azrou, a traditional Berber village. Continue to Midelt for an overnight stay in a kasbah or hotel.",
+          "image": "/public/images/tours/Fez/image-3.jpg"
+        },
+        {
+          "day": 8,
+          "title": "Midelt – Ziz Valley – Erfoud – Merzouga",
+          "description": "Travel to Merzouga, passing through the stunning Ziz Valley with its palm groves and lush landscapes. Stop in Erfoud, famous for its fossils, before heading to the edge of the majestic Erg Chebbi dunes. Enjoy a sunset over the dunes and settle into a desert hotel.",
+          "image": "/public/images/tours/Marrakech/merzouga.jpeg"
+        },
+        {
+          "day": 9,
+          "title": "Explore Merzouga & Overnight in the Desert",
+          "description": "Discover the region of Merzouga, beginning with a visit to a local Gnawa village to enjoy traditional music. Visit the nearby desert lake and explore the palm groves of Tafilalet. Afterward, visit Rissani, the birthplace of the Alaouite dynasty. In the evening, enjoy a camel ride at sunset and stay overnight in a traditional nomadic tent in the heart of the Erg Chebbi dunes.",
+          "image": "/public/images/tours/Marrakech/night.jpeg"
+        },
+        {
+          "day": 10,
+          "title": "Merzouga – Todra Gorges – Ouarzazate",
+          "description": "Begin the day with a camel ride at sunrise before breakfast. Travel to the Todra Gorges, a stunning canyon with dramatic cliffs. Pass through the Valley of Roses and the famous \"Road of 1,000 Kasbahs,\" where you'll see ancient fortresses and lush oases. Arrive in Ouarzazate for an overnight stay.",
+          "image": "/public/images/tours/Marrakech/todragorge.jpeg"
+        },
+        {
+          "day": 11,
+          "title": "Ouarzazate – Taroudant",
+          "description": "After breakfast, head to Taroudant via Taznakht and Taliouine, Morocco's saffron capital. If visiting during saffron harvest season, you'll meet Berber families in the fields. Arrive in Taroudant to explore its medina, ramparts, and local market. Overnight stay in Taroudant.",
+          "image": "/public/images/tours/Marrakech/ouarzazate.jpeg"
+        },
+        {
+          "day": 12,
+          "title": "Taroudant – Agadir – Essaouira",
+          "description": "Travel to the coastal city of Agadir, a popular resort destination. After lunch, continue along the scenic coastal road to Essaouira. Along the way, admire herds of goats climbing argan trees. Arrive in Essaouira in the late afternoon and settle into your riad.",
+          "image": "/public/images/tours/Essaouira/image-1.png"
+        },
+        {
+          "day": 13,
+          "title": "Essaouira – Marrakech",
+          "description": "Spend the morning exploring Essaouira, known as the \"Jewel of the Atlantic.\" Visit its fishing port, Skala ramparts, Sidi Mohammed Ben Abdallah Museum, and vibrant souks. After lunch, depart for Marrakech. Overnight stay in a riad in Marrakech.",
+          "image": "/public/images/tours/Marrakech/13.jpg"
+        },
+        {
+          "day": 14,
+          "title": "Guided Tour of Marrakech",
+          "description": "Discover Marrakech, the \"Red City.\" Highlights of the guided tour include the Bahia and Badi Palaces, Saadian Tombs, Menara Gardens, and Koutoubia Mosque. Visit the bustling Jemaa el-Fna square, famous for its storytellers, entertainers, and food stalls. Overnight in Marrakech.",
+          "image": "/public/images/tours/Marrakech/image-2.jpg"
+        },
+        {
+          "day": 15,
+          "title": "Marrakech – Casablanca Airport",
+          "description": "After breakfast, transfer to Casablanca airport for your departure, marking the end of your Discover Morocco Trips journey.",
+          "image": "/public/images/tours/Marrakech/aeroport.jpeg"
+        }
+      ]
+    }
+  }
+}

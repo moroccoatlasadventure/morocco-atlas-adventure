@@ -1,0 +1,39 @@
+.languageSelector {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.langButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 4px;
+  transition: transform 0.2s, opacity 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.langButton:hover {
+  transform: scale(1.1);
+}
+
+.langButton.active {
+  border-bottom: 2px solid var(--color-primary);
+}
+
+.flag {
+  font-size: 1.25rem;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+  .flag {
+    font-size: 1.1rem;
+  }
+}

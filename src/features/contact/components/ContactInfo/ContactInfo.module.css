@@ -1,0 +1,36 @@
+.contactInfoWrapper {
+  display: flex;
+  gap: 1rem;
+}
+
+.infoCard {
+  flex: 1;
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.infoContent h3 {
+  color: #8B4513;
+  margin-bottom: 0.5rem;
+}
+
+.infoContent p {
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .contactInfoWrapper {
+    flex-direction: column;
+  }
+}
