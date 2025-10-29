@@ -13,7 +13,7 @@ const IndividualTourHero = ({ tour }) => {
           <h1 className={styles.title}>{tour.title}</h1>
         </div>
       </div>
-      
+
       <div className={styles.infoBar}>
         <div className={styles.tourInfo}>
           <div className={styles.infoItem}>
@@ -27,15 +27,6 @@ const IndividualTourHero = ({ tour }) => {
           <div className={styles.infoItem}>
             <FaCalendarAlt className={styles.icon} />
             <span>Availability : {tour.availability}</span>
-          </div>
-        </div>
-        
-        <div className={styles.paymentMethods}>
-          <div className={styles.paymentCard}>
-            <span className={styles.paymentText}>AMERICAN EXPRESS</span>
-            <span className={styles.paymentText}>MasterCard</span>
-            <span className={styles.paymentText}>PayPal</span>
-            <span className={styles.paymentText}>VISA</span>
           </div>
         </div>
       </div>

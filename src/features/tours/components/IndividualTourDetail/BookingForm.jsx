@@ -30,7 +30,10 @@ const BookingForm = () => {
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
-        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
         body: JSON.stringify(formData),
       });
 
@@ -74,29 +77,29 @@ const BookingForm = () => {
       <h2 className={styles.title}>{t("contact.form.title")}</h2>
 
       <form className={styles.form} onSubmit={handleSubmit}>
-          <div className={styles.formGroup}>
-            <input
-              type="text"
-              name="firstName"
-              placeholder={t("contact.form.firstNameLabel")}
-              value={firstName}
-              onChange={(e) => setFirstName(e.target.value)}
-              className={styles.input}
-              required
-            />
-          </div>
+        <div className={styles.formGroup}>
+          <input
+            type="text"
+            name="firstName"
+            placeholder={t("contact.form.firstNameLabel")}
+            value={firstName}
+            onChange={(e) => setFirstName(e.target.value)}
+            className={styles.input}
+            required
+          />
+        </div>
 
-          <div className={styles.formGroup}>
-            <input
-              type="text"
-              name="lastName"
-              placeholder={t("contact.form.lastNameLabel")}
-              value={lastName}
-              onChange={(e) => setLastName(e.target.value)}
-              className={styles.input}
-              required
-            />
-          </div>
+        <div className={styles.formGroup}>
+          <input
+            type="text"
+            name="lastName"
+            placeholder={t("contact.form.lastNameLabel")}
+            value={lastName}
+            onChange={(e) => setLastName(e.target.value)}
+            className={styles.input}
+            required
+          />
+        </div>
 
         <div className={styles.formGroup}>
           <input
@@ -141,10 +144,13 @@ const BookingForm = () => {
 
       <div className={styles.tripAdvisor}>
         <div className={styles.tripAdvisorContent}>
-          <div className={styles.tripAdvisorIcon}>🦉</div>
+          <img
+            src="/public/images/trip_advisor.png"
+            alt="Trip Advisor Logo"
+            className={styles.tripAdvisorImage}
+          />
           <div className={styles.tripAdvisorText}>
-            <strong>Announcing our CERTIFICATE OF EXCELLENCE.</strong><br />
-            We couldn't have done it without you!
+            <strong>Find us on Trip Advisor</strong>
           </div>
         </div>
       </div>

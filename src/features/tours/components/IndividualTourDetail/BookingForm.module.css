@@ -145,13 +145,19 @@
   line-height: 1.4;
 }
 
+.tripAdvisorImage {
+  border-radius: 50%;
+  width: 7rem;
+  height: 7rem;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .container {
     position: static;
     margin-top: 2rem;
   }
-  
+
   .tripAdvisorContent {
     flex-direction: column;
     text-align: center;
