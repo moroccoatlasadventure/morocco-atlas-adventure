@@ -22,7 +22,7 @@ const TourDetailPage = () => {
         title={currentSEO.title}
         description={currentSEO.description}
         image={tourData.heroImage}
-        url={`https://moroccoatlasadventure.com/tour/${city}`}
+        url={`https://www.moroccoatlasadventure.com/tour/${city}`}
         keywords={currentSEO.keywords}
       />
       <div>

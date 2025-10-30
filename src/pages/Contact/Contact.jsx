@@ -14,7 +14,7 @@ const Contact = () => {
         title="Contact Us"
         description="Get in touch with Morocco Atlas Adventure to book trekking trips, ask questions, or plan your adventure in the Atlas Mountains, Rif Mountains, and Sahara Desert. Reach us from Marrakech, Tangier, Fes, or Casablanca."
         image="/images/logo.png"
-        url="https://moroccoatlasadventure.com/contact"
+        url="https://www.moroccoatlasadventure.com/contact"
         author="Morocco Atlas Adventure"
         keywords={[
           "Contact Morocco Atlas Adventure",

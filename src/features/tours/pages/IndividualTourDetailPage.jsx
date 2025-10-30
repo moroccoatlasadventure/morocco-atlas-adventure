@@ -47,7 +47,7 @@ const IndividualTourDetailPage = () => {
         title={`${translatedTour.title} - Morocco Tours`}
         description={translatedTour.overview.substring(0, 160) + '...'}
         image={translatedTour.heroImage}
-        url={`https://moroccoatlasadventure.com/tour-detail/${tourId}`}
+        url={`https://www.moroccoatlasadventure.com/tour-detail/${tourId}`}
         keywords={[
           translatedTour.title,
           translatedTour.subtitle,

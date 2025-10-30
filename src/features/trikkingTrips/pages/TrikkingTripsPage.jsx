@@ -79,7 +79,7 @@ const TourPage = () => {
         title={translatedHero.title}
         description={translatedJourney.description1}
         image={translatedHero.heroImg}
-        url={`https://moroccoatlasadventure.com/trekking/${tripData.id}`}
+        url={`https://www.moroccoatlasadventure.com/trekking/${tripData.id}`}
         keywords={[
           `${tripData.hero.title} trek`,
           `${tripData.hero.subtitle}`,

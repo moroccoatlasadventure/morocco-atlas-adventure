@@ -6,7 +6,7 @@ const defaults = {
   description:
     "Welcome to Morocco Atlas Adventure — your gateway to unforgettable Moroccan experiences. Discover tours from Marrakech, Fez, Casablanca, and Tangier, and embark on trekking trips in the Rif Mountains, Atlas Mountains, and the Sahara. Explore our destinations, offers, and exclusive travel tips.",
   author: "Morocco Atlas Adventure",
-  siteUrl: "https://www.moroccoatlasadventure.com",
+  siteUrl: "https://www.moroccoatlasadventure.com/",
   image: "/images/logo.png",
   keywords: [
     "Morocco travel",
