@@ -573,6 +573,17 @@ export const trikkingtripsData = [
 
     infoCards: [
       {
+        icon: "FaStar",
+        title: "Not Included",
+        included: false,
+        items: [
+          "Transportation to/from Merzouga",
+          "Personal expenses",
+          "Travel insurance",
+          "Tips"
+        ]
+      },
+      {
         icon: "FaGift",
         title: "Included",
         included: true,
@@ -584,17 +595,6 @@ export const trikkingtripsData = [
           "Expert local guide and camel driver"
         ]
       },
-      {
-        icon: "FaStar",
-        title: "Not Included",
-        included: false,
-        items: [
-          "Transportation to/from Merzouga",
-          "Personal expenses",
-          "Travel insurance",
-          "Tips"
-        ]
-      }
     ],
     gallery: "/images/trekkingTrips/sahara/merzouga-three-days/image" 
   },
@@ -664,6 +664,17 @@ export const trikkingtripsData = [
 
     infoCards: [
       {
+        icon: "FaStar",
+        title: "Not Included",
+        included: false,
+        items: [
+          "Transportation to/from Merzouga",
+          "Travel insurance",
+          "Personal expenses",
+          "Tips and optional activities"
+        ]
+      },
+      {
         icon: "FaGift",
         title: "Included",
         included: true,
@@ -674,17 +685,6 @@ export const trikkingtripsData = [
           "Water during the trek",
           "Camel driver and desert crew",
           "Expert local tour guide"
-        ]
-      },
-      {
-        icon: "FaStar",
-        title: "Not Included",
-        included: false,
-        items: [
-          "Transportation to/from Merzouga",
-          "Travel insurance",
-          "Personal expenses",
-          "Tips and optional activities"
         ]
       }
     ],

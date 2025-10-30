@@ -122,8 +122,13 @@ const Contact = () => {
                   <p>{t('contact.social.facebookFollowers')}</p>
                 </div>
               </a>
-
-              <a href="https://instagram.com" className={styles.socialCard} aria-label="Instagram">
+              <a
+                href="https://www.instagram.com/morocco_atlas_adventure?igsh=MXVmMTY2NGhidG9oNg%3D%3D&utm_source=qr"
+                className={styles.socialCard}
+                aria-label="Instagram"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <div className={styles.socialIconWrapper}>
                   <i className="fab fa-instagram"></i>
                 </div>

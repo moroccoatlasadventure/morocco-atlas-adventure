@@ -39,7 +39,7 @@ const AboutPreview = () => {
                 <div className={styles.highlightLabel}>{t("about.highlights.tourPlans")}</div>
               </div>
               <div className={styles.highlightItem}>
-                <div className={styles.highlightNumber}>10+</div>
+                <div className={styles.highlightNumber}>5+</div>
                 <div className={styles.highlightLabel}>{t("about.highlights.treks")}</div>
               </div>
             </div>

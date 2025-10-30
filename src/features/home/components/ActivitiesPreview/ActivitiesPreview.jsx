@@ -119,10 +119,6 @@ const ActivitiesPreview = () => {
                 onError={handleImageError}
               >
                 <div className={styles.imageOverlay}></div>
-                <div className={styles.durationBadge}>
-                  <i className="fas fa-clock"></i>
-                  {t(activities[activeIndex].durationKey)}
-                </div>
               </div>
 
               {/* Content Section */}
@@ -150,15 +146,6 @@ const ActivitiesPreview = () => {
 
                 {/* Footer with Price & CTA */}
                 <div className={styles.cardFooter}>
-                  <div className={styles.priceSection}>
-                    <span className={styles.fromLabel}>
-                      {t("activities.from")}
-                    </span>
-                    <span className={styles.price}>
-                      {activities[activeIndex].priceMAD}{" "}
-                      <span className={styles.currency}>MAD</span>
-                    </span>
-                  </div>
                   <Link
                     to="contact"
                     className={styles.bookButton}

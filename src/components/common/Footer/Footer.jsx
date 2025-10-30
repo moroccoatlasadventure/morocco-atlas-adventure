@@ -24,7 +24,13 @@ const Footer = () => {
             <a href="https://facebook.com" aria-label="Facebook" className={styles.socialLink}>
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="https://instagram.com" aria-label="Instagram" className={styles.socialLink}>
+            <a
+              href="https://www.instagram.com/morocco_atlas_adventure?igsh=MXVmMTY2NGhidG9oNg%3D%3D&utm_source=qr"
+              aria-label="Instagram"
+              className={styles.socialLink}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i className="fab fa-instagram"></i>
             </a>
           </div>
@@ -34,10 +40,6 @@ const Footer = () => {
           <p className={styles.copyright}>
             © {currentYear} Morocco Atlas Adventure. {t('footer.rights')}
           </p>
-          <div className={styles.legalLinks}>
-            <Link to="/privacy">{t('footer.privacy')}</Link>
-            <Link to="/terms">{t('footer.terms')}</Link>
-          </div>
         </div>
       </div>
     </footer>

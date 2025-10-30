@@ -45,7 +45,7 @@
     "story": {
       "title": "Your Moroccan Adventure Awaits",
       "paragraph1": "Morocco Atlas Adventure is your gateway to the heart of Morocco's vibrant landscapes, timeless culture, and legendary hospitality. Specializing in guided tours across Tangier, Fes, Marrakech, and Casablanca, we craft immersive travel experiences that reveal the authentic spirit of Morocco.",
-      "paragraph2": "Our curated itineraries offer flexibility to suit every explorer, with options including 2-day, 3-day, 7-day, and 10-day tours. Discover bustling medinas, imperial architecture, and the lively pulse of Moroccan cities.",
+      "paragraph2": "Our curated itineraries offer flexibility to suit every explorer, with options including 2-day, 3-day, 7-day, 10-day, and 15 day tours. Discover bustling medinas, imperial architecture, and the lively pulse of Moroccan cities.",
       "paragraph3": "For adventure seekers, we offer unforgettable trekking experiences in the breathtaking Atlas Mountains, including legendary peaks like Toubkal—the highest in North Africa."
     },
 
@@ -1445,7 +1445,7 @@
           "day": 1,
           "title": "Fez Sightseeing",
           "description": "After Breakfast In Your Riad, You Will Start Exploring Fes\" The Spiritual City Of Morocco\". You Will Spend The Whole Morning Exploring The Medina, Visiting Most Of The Sites With Cultural And Historical Interest – Including The Famous Al Karaouine Mosque And University (The Oldest In The World), The Tanneries And The Najjarine Fountain. After Lunch, We Will Drive Outside The Medina To See The Royal Palace Gate, Walk Through The Jewish Quarter\" The Mellah\", Then To Visit The Pottery Cooperative. Afternoon, We Will Drive To One Of The Fortresses To Experience An Amazing Panoramic View Of The Whole Medina Of Fes. Overnight Accommodation Will Be In An Authentic Riad In The Heart Of Old Medina.",
-          "image": "/public/images/tours/Fez/4.jpg"
+          "image": "images/tours/Fez/4.jpg"
         },
         {
           "day": 2,
