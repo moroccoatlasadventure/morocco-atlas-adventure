@@ -811,14 +811,14 @@
         "title": "Tour de 4 Días Desde Tánger"
       },
       "casablanca2": {
-        "title": "Tour de 2 Días Desde Casablanca"
+        "title": "Tour de 3 Días Desde Casablanca"
       }
     },
     "tours": [
       { "title": "Tour de 7 Días Desde Fez" },
       { "title": "Tour de 11 Días Desde Marrakech" },
       { "title": "Tour de 4 Días Desde Tánger" },
-      { "title": "Tour de 2 Días Desde Casablanca" }
+      { "title": "Tour de 3 Días Desde Casablanca" }
     ]
   },
   "trikkingTrips": {

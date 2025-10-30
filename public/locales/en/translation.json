@@ -828,14 +828,14 @@
         "title": "4 Days Tour From Tangier"
       },
       "casablanca2": {
-        "title": "2 Days Tour From Casablanca"
+        "title": "3 Days Tour From Casablanca"
       }
     },
     "tours": [
       { "title": "7 Days Tour From Fez" },
       { "title": "11 Days Tour From Marrakech" },
       { "title": "4 Days Tour From Tangier" },
-      { "title": "2 Days Tour From Casablanca" }
+      { "title": "3 Days Tour From Casablanca" }
     ]
   },
   "trikkingTrips": {

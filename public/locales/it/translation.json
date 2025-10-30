@@ -806,14 +806,14 @@
         "title": "Tour di 4 Giorni da Tangeri"
       },
       "casablanca2": {
-        "title": "Tour di 2 Giorni da Casablanca"
+        "title": "Tour di 3 Giorni da Casablanca"
       }
     },
     "tours": [
       { "title": "Tour di 7 Giorni da Fes" },
       { "title": "Tour di 11 Giorni da Marrakech" },
       { "title": "Tour di 4 Giorni da Tangeri" },
-      { "title": "Tour di 2 Giorni da Casablanca" }
+      { "title": "Tour di 3 Giorni da Casablanca" }
     ]
   },
   "trikkingTrips": {
