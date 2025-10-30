@@ -145,7 +145,7 @@ const BookingForm = () => {
       <div className={styles.tripAdvisor}>
         <div className={styles.tripAdvisorContent}>
           <img
-            src="/public/images/trip_advisor.png"
+            src="images/trip_advisor.png"
             alt="Trip Advisor Logo"
             className={styles.tripAdvisorImage}
           />
