@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import styles from "./BookingForm.module.css";
+import HCaptcha from "@hcaptcha/react-hcaptcha";
 
 const BookingForm = () => {
   const { t } = useTranslation();
@@ -10,6 +11,7 @@ const BookingForm = () => {
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
+  const [token, setToken] = useState("");
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
@@ -22,6 +24,7 @@ const BookingForm = () => {
 
     const formData = {
       access_key: import.meta.env.VITE_WEB3FORMS_KEY,
+      "h-captcha-response": token,
       firstName,
       lastName,
       email,
@@ -46,6 +49,7 @@ const BookingForm = () => {
         setLastName("");
         setEmail("");
         setMessage("");
+        setToken("");
       } else {
         setError(t("contact.form.error"));
       }
@@ -124,12 +128,17 @@ const BookingForm = () => {
             required
           />
         </div>
+        <HCaptcha
+          sitekey={import.meta.env.VITE_HCAPTCHA_SITE_KEY}
+          reCaptchaCompat={false}
+          onVerify={(token) => setToken(token)}
+        />
 
         {error && <p className={styles.error}>{error}</p>}
 
         <button
           type="submit"
-          disabled={isSubmitting || !isFormValid}
+          disabled={isSubmitting || !isFormValid || !token}
           className={styles.submitButton}
         >
           <span>

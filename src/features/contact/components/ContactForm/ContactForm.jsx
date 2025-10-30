@@ -1,12 +1,14 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import styles from "./ContactForm.module.css";
+import HCaptcha from "@hcaptcha/react-hcaptcha";
 
 const ContactForm = () => {
   const { t } = useTranslation();
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
   const [error, setError] = useState(null);
+  const [token, setToken] = useState("");
 
   // Nouveaux états pour le formulaire
   const [firstName, setFirstName] = useState("");
@@ -21,6 +23,7 @@ const ContactForm = () => {
 
     const formData = {
       access_key: import.meta.env.VITE_WEB3FORMS_KEY,
+      "h-captcha-response": token,
       firstName: firstName,
       lastName: lastName,
       email: email,
@@ -43,6 +46,7 @@ const ContactForm = () => {
         setLastName("");
         setEmail("");
         setMessage("");
+        setToken("");
       } else {
         setError(t("contact.form.error"));
       }
@@ -140,6 +144,12 @@ const ContactForm = () => {
                 onChange={(e) => setMessage(e.target.value)}
               />
             </div>
+
+            <HCaptcha
+              sitekey={import.meta.env.VITE_HCAPTCHA_SITE_KEY}
+              reCaptchaCompat={false}
+              onVerify={(token) => setToken(token)}
+            />
 
             {error && <p className={styles.error}>{error}</p>}
 
